@@ -12,6 +12,7 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
+set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Steam/steamapps/common/Cyberpunk 2077/tools/redmod/")
 
 configure_version_from_git()
 configure_default_output_directories()
@@ -40,9 +41,10 @@ add_compile_options(
 
 add_link_options(
   /INCREMENTAL:NO
+  /NATVIS:${CMAKE_SOURCE_DIR}/.natvis
 )
 
-# include(ConfigureAndIncludeDetours)
+include(ConfigureAndIncludeDetours)
 include(ConfigureAndIncludeFmt)
 # include(ConfigureAndIncludeRED4extSdk)
 # include(ConfigureAndIncludeSpdlog)

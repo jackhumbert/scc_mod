@@ -1,43 +1,121 @@
 [
 {
   "directory": "D:/Code/scc_mod/build",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++20 -MD /Zc:__cplusplus /Fodeps\\fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\fmt\\src\\format.cc",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\creatwth.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\creatwth.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\creatwth.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\creatwth.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\detours.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\detours.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\detours.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\detours.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disasm.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\disasm.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\disasm.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disasm.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolarm.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\disolarm.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\disolarm.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolarm.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolarm64.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\disolarm64.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\disolarm64.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolarm64.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolia64.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\disolia64.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\disolia64.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolia64.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolx64.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\disolx64.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\disolx64.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolx64.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\disolx86.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\disolx86.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\disolx86.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\disolx86.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\image.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\image.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\image.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\image.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /FoCMakeFiles\\Detours.dir\\deps\\detours\\src\\modules.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\detours\\src\\modules.cpp",
+  "file": "D:\\Code\\scc_mod\\deps\\detours\\src\\modules.cpp",
+  "output": "CMakeFiles\\Detours.dir\\deps\\detours\\src\\modules.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\fmt\\src\\format.cc",
   "file": "D:\\Code\\scc_mod\\deps\\fmt\\src\\format.cc",
   "output": "deps\\fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj"
 },
 {
   "directory": "D:/Code/scc_mod/build",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++20 -MD /Zc:__cplusplus /Fodeps\\fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\fmt\\src\\os.cc",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -ID:\\Code\\scc_mod\\deps\\fmt\\include /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /Fodeps\\fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\deps\\fmt\\src\\os.cc",
   "file": "D:\\Code\\scc_mod\\deps\\fmt\\src\\os.cc",
   "output": "deps\\fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj"
 },
 {
   "directory": "D:/Code/scc_mod/build",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++20 -MD /Zc:__cplusplus /YcD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\cmake_pch.cxx.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\build\\src\\CMakeFiles\\redlexer_native.dll.dir\\cmake_pch.cxx",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YcD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\cmake_pch.cxx.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\build\\src\\CMakeFiles\\redlexer_native.dll.dir\\cmake_pch.cxx",
   "file": "D:\\Code\\scc_mod\\build\\src\\CMakeFiles\\redlexer_native.dll.dir\\cmake_pch.cxx",
   "output": "src\\CMakeFiles\\redlexer_native.dll.dir\\cmake_pch.cxx.obj"
 },
 {
   "directory": "D:/Code/scc_mod/build",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++20 -MD /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\Main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\Main.cpp",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\DetourTransaction.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\DetourTransaction.cpp",
+  "file": "D:\\Code\\scc_mod\\src\\DetourTransaction.cpp",
+  "output": "src\\CMakeFiles\\redlexer_native.dll.dir\\DetourTransaction.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\Main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\Main.cpp",
   "file": "D:\\Code\\scc_mod\\src\\Main.cpp",
   "output": "src\\CMakeFiles\\redlexer_native.dll.dir\\Main.cpp.obj"
 },
 {
   "directory": "D:/Code/scc_mod/build",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++20 -MD /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\Proxies\\redlexer_native.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\Proxies\\redlexer_native.cpp",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\Proxies\\redlexer_native.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\Proxies\\redlexer_native.cpp",
   "file": "D:\\Code\\scc_mod\\src\\Proxies\\redlexer_native.cpp",
   "output": "src\\CMakeFiles\\redlexer_native.dll.dir\\Proxies\\redlexer_native.cpp.obj"
 },
 {
   "directory": "D:/Code/scc_mod/build",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++20 -MD /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\stdafx.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\stdafx.cpp",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\red\\name.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\red\\name.cpp",
+  "file": "D:\\Code\\scc_mod\\src\\red\\name.cpp",
+  "output": "src\\CMakeFiles\\redlexer_native.dll.dir\\red\\name.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\red\\pool.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\red\\pool.cpp",
+  "file": "D:\\Code\\scc_mod\\src\\red\\pool.cpp",
+  "output": "src\\CMakeFiles\\redlexer_native.dll.dir\\red\\pool.cpp.obj"
+},
+{
+  "directory": "D:/Code/scc_mod/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1435~1.322\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -ID:\\Code\\scc_mod\\src -ID:\\Code\\scc_mod\\deps\\fmt\\include -ID:\\Code\\scc_mod\\deps\\wil\\include -ID:\\Code\\scc_mod\\deps\\detours\\src /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /Zc:__cplusplus /YuD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /FpD:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/./cmake_pch.cxx.pch /FID:/Code/scc_mod/build/src/CMakeFiles/redlexer_native.dll.dir/cmake_pch.hxx /Fosrc\\CMakeFiles\\redlexer_native.dll.dir\\stdafx.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Code\\scc_mod\\src\\stdafx.cpp",
   "file": "D:\\Code\\scc_mod\\src\\stdafx.cpp",
   "output": "src\\CMakeFiles\\redlexer_native.dll.dir\\stdafx.cpp.obj"
 },
 {
   "directory": "D:/Code/scc_mod/build",
-  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\rc.exe -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -I D:\\Code\\scc_mod\\src -I D:\\Code\\scc_mod\\deps\\fmt\\include -I D:\\Code\\scc_mod\\deps\\wil\\include -DWIN32 /fo src\\CMakeFiles\\redlexer_native.dll.dir\\Resource.rc.res D:\\Code\\scc_mod\\src\\Resource.rc",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x86\\rc.exe -DGIT_VERSION_MAJOR=GIT_VERSION_MAJOR -DGIT_VERSION_MINOR=GIT_VERSION_MINOR -DGIT_VERSION_PATCH=GIT_VERSION_PATCH -DGIT_VERSION_STR_FULL=GIT_VERSION_STR_FULL -DUNICODE -DWIN32_LEAN_AND_MEAN -DWINVER=0x0601 -D_UNICODE -D_WIN32_WINNT=0x0601 -Dredlexer_native_dll_EXPORTS -I D:\\Code\\scc_mod\\src -I D:\\Code\\scc_mod\\deps\\fmt\\include -I D:\\Code\\scc_mod\\deps\\wil\\include -I D:\\Code\\scc_mod\\deps\\detours\\src -DWIN32 -D_DEBUG /fo src\\CMakeFiles\\redlexer_native.dll.dir\\Resource.rc.res D:\\Code\\scc_mod\\src\\Resource.rc",
   "file": "D:\\Code\\scc_mod\\src\\Resource.rc",
   "output": "src\\CMakeFiles\\redlexer_native.dll.dir\\Resource.rc.res"
 }

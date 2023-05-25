@@ -1,4 +1,4 @@
-add_subdirectory(deps/fmt)
+add_subdirectory(deps/fmt EXCLUDE_FROM_ALL)
 set_target_properties(fmt PROPERTIES FOLDER "Dependencies")
 
 mark_as_advanced(

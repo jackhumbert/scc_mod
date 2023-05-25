@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoVisualizer
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://schemas.microsoft.com/vstudio/debugger/natvis/2010 file:///c%3A/Program%20Files/Microsoft%20Visual%20Studio/2022/Community/Xml/Schemas/1033/natvis.xsd" xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+    <Type Name="red::DynArray&lt;*&gt;">
+        <DisplayString>size={m_size}</DisplayString>
+        <Expand>
+            <Item Name="[capacity]">m_capacity</Item>
+            <Item Name="[size]">m_size</Item>
+            <ArrayItems>
+                <Size>m_size</Size>
+                <ValuePointer>m_buffer</ValuePointer>
+            </ArrayItems>
+        </Expand>
+    </Type>
+    <Type Name="red::DynamicBuffer&lt;*&gt;">
+        <DisplayString>capacity={m_capacity}</DisplayString>
+        <Expand>
+            <ArrayItems>
+                <Size>m_capacity</Size>
+                <ValuePointer>m_buffer</ValuePointer>
+            </ArrayItems>
+        </Expand>
+    </Type>
+    <Type Name="red::Pool&lt;*&gt;">
+        <DisplayString>capacity={m_capacity}, blockSize={m_blockSize}, bufferSize={m_bufferSize}</DisplayString>
+        <Expand>
+            <ArrayItems>
+                <Size>m_bufferSize</Size>
+                <ValuePointer>m_buffer</ValuePointer>
+            </ArrayItems>
+        </Expand>
+    </Type>
+    <Type Name="red::String">
+        <DisplayString Condition="length &lt;= 0x40000000">"{text.inline_str,sb}"</DisplayString>
+        <DisplayString Condition="length &gt; 0x40000000">"{text.str.ptr,sb}"</DisplayString>
+    </Type>
+    <Type Name="red::Name">
+        <DisplayString Condition="hash == 0">None</DisplayString>
+        <DisplayString Condition="hash &gt; 0">{ToString,sb}</DisplayString>
+    </Type>
+    <Type Name="red::HashMap&lt;*,*&gt;">
+        <DisplayString>size={m_size}</DisplayString>
+        <Expand>
+            <CustomListItems MaxItemsPerView="5000">
+                <Variable Name="index" InitialValue="0" />
+                <Variable Name="idx" InitialValue="0" />
+
+                <Size>m_capacity</Size>
+                <Loop>
+                    <Exec>idx = *(indexTable + index)</Exec>
+                    <Loop>
+                        <Break Condition="idx == 0xFFFFFFFF" />
+                        <!-- <Item Name="{index}:{idx}">((uint64_t)m_pool.m_buffer + (m_pool.m_blockSize * idx))</Item> -->
+                        <Item Name="{*($T1*)(((uint64_t)m_pool.m_buffer + (m_pool.m_blockSize * idx))+8)}">($T2*)(((uint64_t)m_pool.m_buffer + (m_pool.m_blockSize * idx))+16)</Item>
+                        <Exec>idx = *(uint32_t*)((uint64_t)m_pool.m_buffer + (m_pool.m_blockSize * idx))</Exec>
+                    </Loop>
+                    <!--
+                    <Loop>
+                        <Break Condition="idx == 0xFFFFFFFF" />
+                        <Item>m_pool.m_buffer + (m_pool.m_blockSize * idx)</Item>
+                        <Exec>idx = *(m_pool.m_buffer + (m_pool.m_blockSize * idx))</Exec>
+                    </Loop> -->
+                    <Exec>index += 1</Exec>
+                </Loop>
+            </CustomListItems>
+        </Expand>
+    </Type>
+    <Type Name="red::IScriptDataObject">
+        <DisplayString>{name,na}</DisplayString>
+    </Type>
+</AutoVisualizer>

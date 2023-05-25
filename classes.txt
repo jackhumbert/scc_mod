@@ -1,0 +1,1711 @@
+
+char const * __ptr64
+class _com_error
+class `anonymous namespace'::CollectionSorter::Element
+class `private: bool __cdecl CScriptDataLoader::LoadObjects(class IFile & __ptr64,unsigned __int64) __ptr64'::`2'::LocalFileWrapper
+class `public: bool __cdecl CScriptDataEnvironmentSaver::Save(class IFile & __ptr64) __ptr64'::`2'::LocalFileSaver
+class <lambda_0017a9bd80c969e3cc36434b790f5b43>
+class <lambda_002658435a1905f259a1c99c16ee5284>
+class <lambda_00b8addabafb6cf4ffe07aeecd4aeab5>
+class <lambda_00bce62ffa2d69a3c4eb5f4a48f50e64>
+class <lambda_0182e8299bf70787908eee508567cc01>
+class <lambda_01f9038bc495ab0d071d7d94a8ec732e>
+class <lambda_01fc4a8b5a71d750d469dfc3b1be35b0>
+class <lambda_023442e0a8db9ba9fdda84bee37617f9>
+class <lambda_027cd953c649e435841956e9fdf592cf>
+class <lambda_02bb8bcdd109bc5c22b4180a08e7d5ca>
+class <lambda_032af9ff456a2f2135d58f4e6d4d1f52>
+class <lambda_036b8cc28bb3958de0543c134442786c>
+class <lambda_03c52afcc6e35139378a39de9f319cb9>
+class <lambda_03daaa679e6d058b589ebd05f197d27d>
+class <lambda_042e3e64fbb92458bf7b4e8cf28682fe>
+class <lambda_05056eef993e1eaceac9bb2cc7ad1fd2>
+class <lambda_0542a5c40806e9c3166faa77879b8c2b>
+class <lambda_05e6078c7da83177b407022db3903368>
+class <lambda_05f38c9f9c090e92aee732b2b6ffb469>
+class <lambda_063cbb9ced540be372917ce9e07fbef8>
+class <lambda_06779fbfc225bf228fccb409327fa5f3>
+class <lambda_06d5eb37461bd57d37a0f02baf8dcfbc>
+class <lambda_074f7c80405032296fa69cc3425a5c83>
+class <lambda_076d8f0e0eac8c546bb063eb08f0eb86>
+class <lambda_079b87137f9aafb209991c3ca7c2d805>
+class <lambda_07ed317967f7deae6206861038c77d0c>
+class <lambda_08146d484f5ef0ec63f0da313a2427b9>
+class <lambda_081c076bfcddc53c71cd84392e4d3877>
+class <lambda_0885ea72e8c513c7f115c4e5862b96f8>
+class <lambda_089ccbc5586d8507dfe3c97f90755d5b>
+class <lambda_09ab44d1e207047d1c17d275a6fdd02c>
+class <lambda_0a3006d07c4b14c8b8fc5eb9d1f4bb7d>
+class <lambda_0b164721ce4454c2ff32e0084b5522fe>
+class <lambda_0bbe20cf77a54b9844e26f43e6b5bc32>
+class <lambda_0bfc63d4ce5e49215b224110ddf043ee>
+class <lambda_0c0f28c0536cba75bce0f6b246a95b3f>
+class <lambda_0c1bbdbcc6b882e0fae91c81f40a1b13>
+class <lambda_0d07e2bbd7b2a6763eb0740b2b1ac47b>
+class <lambda_0d97d7502b4ca0ebd5eefff6da79f0dc>
+class <lambda_0dbe6a10127c5b09135d4c17c3766be7>
+class <lambda_0dd2eab7a7bbd5b098bad711c523e602>
+class <lambda_0df8d4cf1e55b45b54071fcd7631e205>
+class <lambda_0e2cd9a06c1dcdbb6a206637bbd3c631>
+class <lambda_0e636c61611a99368e7dd56ee2c74770>
+class <lambda_0eb196f91176837205859117db05c1b7>
+class <lambda_0edd0b2e5ed7a2a5d5ac74a4ff9db6e1>
+class <lambda_0f2f386d19cf1ac31b4f92af8ea3b4a0>
+class <lambda_1021556b5a82f235548bf1a78ebef968>
+class <lambda_10330f5812f10acc953f910ae49aac73>
+class <lambda_1121eaa0e4bcd6000f227fe82ffc31ff>
+class <lambda_11f7524d6f844d3f527dfaea065ab03b>
+class <lambda_1286bd8bb4eac11035b0de54fa6598f1>
+class <lambda_1327fc574df41271bdc195c68c799565>
+class <lambda_13759746cc9e8022c0a6b612e88c2886>
+class <lambda_14cb0304d790eb2dd823eb4cf9a6cf5b>
+class <lambda_17796190545f67f7f3a4a7519a4009fd>
+class <lambda_178338caf1e34faca10000996db31d9f>
+class <lambda_1808a6bcd3a8f4f3dd9352f9afaec74c>
+class <lambda_183d3cb0c9e2d9ba3e37b583ba4cd752>
+class <lambda_1880ff3679c0fff8bb25dddb282a1c3d>
+class <lambda_18f019a7e8ccd581a87b4393c8cf18b3>
+class <lambda_1919548d77e1652af8e2534dd3b9ed9e>
+class <lambda_192781fb34e49b50bbeb2bbe2d53eb94>
+class <lambda_19eaffa086bc9b80decaef6b00c6d5a6>
+class <lambda_1a0729f4da7d144080c13a3bfed3ddfa>
+class <lambda_1a2609dfb9d8eda70e38d6555677e595>
+class <lambda_1a276404c318c45682063d7504373c40>
+class <lambda_1a5abb1afcff9f2eb845a06d0918f640>
+class <lambda_1a86a6081374c41a9f1a9372ce2163f0>
+class <lambda_1a8a4ee293c77722c7bd35465cf99976>
+class <lambda_1aefa769f6c6267a74354dd46d029556>
+class <lambda_1b0f1119b3d826db5394a1ff8d4d5882>
+class <lambda_1b2399ce5ec3a358245aee7321eb2f94>
+class <lambda_1b2bdf1ed19da10e8fb4678bae6d66e8>
+class <lambda_1b812448f59ebf5d7e02c9853b3bcc17>
+class <lambda_1d0a7922dd0ed1059130914c9e982a6a>
+class <lambda_1d4c900d078806db5c97c770871ff4d5>
+class <lambda_1d4d8c2c9173022839822247cfda574e>
+class <lambda_1d7f2f1e644a2e1f14fd4494363a8d86>
+class <lambda_1dc7aa6774a374151aa89721f52f73b5>
+class <lambda_1dcb1bd5a355781c5046ed47897b1096>
+class <lambda_1f1513e1eed8a276ccab644b01d7db53>
+class <lambda_2009a3ddb7fa41813b909c68ed9b1aaf>
+class <lambda_2036a02ab1e0abe8e583dd33e7072a78>
+class <lambda_204a9696e92bedc62ed959ce1d7dd03c>
+class <lambda_2113d4bffc983d2c9203d9a076d4652b>
+class <lambda_212a83cc23c882bbf5873ff97d5fbe31>
+class <lambda_212cd4d7ff3453ec172bacfdbbad568d>
+class <lambda_2145af0532b518a7ee8deb362e8ebe60>
+class <lambda_21c1bd3b6c00d6e177c0b3bc95399e74>
+class <lambda_21f848557ef24fd7f0f99f93407ec355>
+class <lambda_2217b386c11dbc11bb2d03a60ba02070>
+class <lambda_224754cb420383a6f2510c60dca9a0ae>
+class <lambda_2251e813e28ca35ad89772e1b0310b98>
+class <lambda_23589341a17d384e4da546d304920c19>
+class <lambda_23ceb96b6b87ab89886b4b880ffdfda2>
+class <lambda_25607c0e6b5b62d5a3ba7bb76d256314>
+class <lambda_25b1ca9a932ab91b9af2aeb2ef3864cd>
+class <lambda_25c29473a776ccbc22310bdf6f53a5db>
+class <lambda_2652e1ea7e8aabe4349b183b7a62599c>
+class <lambda_26f9061c0aec26dd0e5d43ec3f50598f>
+class <lambda_2752d881ad7c8c91f0653fa4273094a8>
+class <lambda_27c441656f60346e121ed2bee2d449e0>
+class <lambda_287f9daaf71e78aabd434e60712d1894>
+class <lambda_2921582b2326e23092e70e15898ed2a2>
+class <lambda_29633fa8d1fef6c4b0f2ec663bee4d38>
+class <lambda_2983fe2773e751d6a11afc4de62f6ccb>
+class <lambda_29e5958ade4a60b5db7d6d12ab84fcba>
+class <lambda_2a4124b23500dd9f114778e57c134bd3>
+class <lambda_2ada6508122cea6c66f1abc7d5f2122d>
+class <lambda_2aec60cbd3038a1713f829c64bcf2648>
+class <lambda_2bc7001806564d3bf08b15bc98de4e8e>
+class <lambda_2bffa5b02a96aaa3f76f0387d6d9ea4d>
+class <lambda_2c42ea4cb34b3e51997ba09fdfe0b073>
+class <lambda_2c7f742c8a46995a63376468c41b7079>
+class <lambda_2ca492593e6765353b2ad0611da9d0f8>
+class <lambda_2d4f5464324545cf0f5d8709f94ad514>
+class <lambda_2d92e199de3a815aebf61b81d042397c>
+class <lambda_2da90714793926a92a0fa81c9dfd2846>
+class <lambda_2dc1ac3f3304d6a3ded4547777823c66>
+class <lambda_2de20060abe7322f0b56d1f78513d0f3>
+class <lambda_2e9793927f1e97f0bd2917b542e035ec>
+class <lambda_2ecd71badd7ef8f021d83be8a6de6731>
+class <lambda_2f2b496ff834756cdc34ddfd7332cf0b>
+class <lambda_304b043515f586ab54ff470cbcda5105>
+class <lambda_309a74fe7c48c2f5f6f1b31bfbaa9747>
+class <lambda_31237a2f72d04893655341e9596ea188>
+class <lambda_31637f091874ea39d319d8d4efe15256>
+class <lambda_320dfef98f43de954721aa1265d97b2d>
+class <lambda_321d59f3254c4a391d9772e1a3864b8d>
+class <lambda_33af6cbbb4bf6ad0aef31a12ac89c5c5>
+class <lambda_34857577d078b4149469bd483711fbe4>
+class <lambda_34e04d4278e55745c3289369c02cab58>
+class <lambda_358aaddc5275fe249149515cb12cd4ae>
+class <lambda_3633722c9f0d65803810e8ae6b087619>
+class <lambda_36367f9802c5f6cf5665e94f65aad378>
+class <lambda_3654421c51d59f0ae9d8e59d613a8b6a>
+class <lambda_367fd72d0e539f96fe1518fb035dc083>
+class <lambda_36b16b8f36f6720f83eede4f5689237b>
+class <lambda_38245bfe4eca5b525a0ec9f942b21556>
+class <lambda_382a972e4d7ea1c8e6c31aa8408d534d>
+class <lambda_38531c188b0738ebec5b86ecf2239dab>
+class <lambda_38fcaf24d73d211a08967eca40f8a541>
+class <lambda_3a39484eb3bc48024e90a7370f3975f2>
+class <lambda_3bf176df0454b58de49a13c89042c4eb>
+class <lambda_3c81e02c488e774e5b01efe31cc1f8d4>
+class <lambda_3cdcef10a86e8a43b07ab64de0c59be5>
+class <lambda_3d5eb8d21199fea87c7214c6a1f687bc>
+class <lambda_3d9bff7d9bec897e85b1a5848fcda50d>
+class <lambda_3db27681846d4779e21f7342f54b7936>
+class <lambda_3e6debce08a42141574e4a99cbbec89c>
+class <lambda_3f504dde77f9302f2a1f13ad0effa618>
+class <lambda_3f95a0f1fcce934bfd7af6d67681e002>
+class <lambda_3fead39dcf694f1eb9f1c628d0e637db>
+class <lambda_400e2a1b1346b4678b53fecce9969800>
+class <lambda_406feb4bec605743f72eb689b1e8bb65>
+class <lambda_40751806bc150131a74f22e2f2f622ab>
+class <lambda_4082b6ecf86bc22dfaafc5a949dd5107>
+class <lambda_408ada454d393126b2e35afb8ec5cb11>
+class <lambda_40d9ead81be3dcd7b3d2e62b2f368270>
+class <lambda_41563a2ada3a787707ef240bbe4349ee>
+class <lambda_416a83157146647ff8f40d1046159678>
+class <lambda_418232f9eed10ef314e315660ef6e2e4>
+class <lambda_41c7f66d2419d8828520255f402553f0>
+class <lambda_424e46a5deacd21ee6c491df877f3893>
+class <lambda_433be9cfb949e80e0c6ed608c4676456>
+class <lambda_43587e07998dce8a5149a627949f1f57>
+class <lambda_43e9aeec3f1c6592b210f855bd5d18ca>
+class <lambda_446466a473ae227581d238f2d1e54b81>
+class <lambda_44c0531dd2b6ac927da927681102e5c3>
+class <lambda_455791826819a854d09ff8527ab0ad34>
+class <lambda_4619c50946100bb673b1f42b25094f63>
+class <lambda_46a8e8d4e0e5899f182f489c2ac11517>
+class <lambda_46e4930cd22fca7b0c0f77f0a1169d17>
+class <lambda_4731e9f048c2f033bed2a4f0709db7c3>
+class <lambda_477bd97ce2612c0dab27992a45cdf657>
+class <lambda_47eaaf4be3536c4708517e20ce4893fe>
+class <lambda_489b7378232b9f8a442147beb5b53fb5>
+class <lambda_48b39ed27d36e8a71670ad7342af0cc3>
+class <lambda_48daa821417e4bf38d8e429325ddf143>
+class <lambda_4a646cb7189f2b2615e3dd9618e14bcd>
+class <lambda_4a791a6f3909b8d72fe54af7f9cdc74b>
+class <lambda_4b27d296b392c9d38319fac9c6814230>
+class <lambda_4bd7fe646327db26d7e84dd002919f7f>
+class <lambda_4c3a84d8fad0f220c93fd6108a9544b7>
+class <lambda_4c82f05eed71cbd77b909ecf77686c63>
+class <lambda_4c8f8e5ebeb81879618b6cc422c4e5b2>
+class <lambda_4c92e93e812cb6645de5806f7581f073>
+class <lambda_4c960207492c5fdd8b1ddffd2dd78ad6>
+class <lambda_4d3a9b8931ae13f87aa8465b4c912eeb>
+class <lambda_4dcc50baca3483ac2bc6fc049d6cedf2>
+class <lambda_4e000332aacdce93c88e2f495b7f7daf>
+class <lambda_4f26adc9d8e31590ea7897d2f4534bb5>
+class <lambda_4f95d31707587914d7a03ae0d0ec8053>
+class <lambda_4fa106482ab83d96d791c0374f7a39ec>
+class <lambda_535dbb0efa92b2fbaaa61ff796c7b2d9>
+class <lambda_53712d1d4131eedc42c23367b5c2dd1f>
+class <lambda_53856ccd2b1b0d5f36d2e8224abdeb78>
+class <lambda_53eb016ce3c10386e237cc9281e92b46>
+class <lambda_5494244c16c763e7f1dece5310dfdbc7>
+class <lambda_5579d3780c94fb8d6dc0f53bf0bd6020>
+class <lambda_55826fef3f676b3b74317dcd8dc42947>
+class <lambda_55e52e5bdd24fb2b834014104ddab417>
+class <lambda_56d0e1ba3e48255e5ce4cb294bb91824>
+class <lambda_56f8e84d89efd504bc5a181fafb21a84>
+class <lambda_5740082c7ac3ad9c52c63cf7d830fd85>
+class <lambda_5766e54d00a0f39711b9ba6f782a9a60>
+class <lambda_581daa4c4e29c100be814e39e5427e93>
+class <lambda_585350fb6068f9a3615b0887ef128460>
+class <lambda_587b892d9676e53db87719e81206d776>
+class <lambda_58e58c2ec50c9730ec29562965742ec7>
+class <lambda_594d7e8d4c70aa50df30cec07d46a23a>
+class <lambda_59a08082291e97a186017091a84020c4>
+class <lambda_59a90decce53cdaea9f47be979707029>
+class <lambda_59ecd989e7ec63351767429e57655645>
+class <lambda_5aedfc710f4b4cb6e86cf3abec9c232d>
+class <lambda_5b27e3e59633e01831e8b2c6c93d65b9>
+class <lambda_5be283bdf29e34b686c6b410af5f1fd0>
+class <lambda_5d616a0300952f9ed4df908b8b7762b0>
+class <lambda_5e3fd7031820115162bc2a896217c5ff>
+class <lambda_5e4e86e5655de1fac44b556888b03159>
+class <lambda_5e5bdbcc49b57b6d7f6612bc299c2208>
+class <lambda_5eb407f20ad0bc53d51d7cf20d405090>
+class <lambda_5f5ac3b72cf50eadfd8264dc852466d3>
+class <lambda_5f752f01302d2f00545bfbb40a9e3232>
+class <lambda_5f9a66a5714ff8b7bac1c59ef81f9028>
+class <lambda_5fc0a6fa4479287745b002c51541d13a>
+class <lambda_604748f39f3b23bad85a8740b78ef041>
+class <lambda_604b66cde11ca9d3f1331e89de4a1d79>
+class <lambda_6086684099b7981a4a31db4b1e6d688c>
+class <lambda_60e1868b5d841ca1400b45c104b2042a>
+class <lambda_61678d74c4dee1c0e5f1d3ab42c032d4>
+class <lambda_61c277b9e85da0ae0cc86d3c588d3f3e>
+class <lambda_62b4660193f45557d065c487747edddd>
+class <lambda_62ea15602fa3ed81a69a864882b88dcf>
+class <lambda_637a6eb41d80419e0ce092e3e6c74ddf>
+class <lambda_63ecb5af70a954896c7b0455487dd2b7>
+class <lambda_6444396ab71bed089f5dbd224fc9b63c>
+class <lambda_64999fac0080214a50744ac59071b2b8>
+class <lambda_6529449ae7d134c526019fde7487d0e5>
+class <lambda_65437d5fdd420e88756b171835e3d60c>
+class <lambda_65764ca2f0b76a221c6053d48521babf>
+class <lambda_658f95b506da4f51a8c2f52f8ca282e9>
+class <lambda_65c7dbcfa569f04db9b2f24a654354fa>
+class <lambda_65cc9f62fc6526285e9864850b760b11>
+class <lambda_65e5804e48390332052b2f8f43e6aa59>
+class <lambda_65fd70c2a40fc6a03150836b4604ee13>
+class <lambda_66488af4788d9f1fef85b90bb2676206>
+class <lambda_6671b497793346313409ddf060bd1e37>
+class <lambda_6763c4ea375a40b7ee76866f8ea4281a>
+class <lambda_67b5d21a7b33ed3ee60c2818c9fb14f5>
+class <lambda_68433eb27f5119709c8059cba21a8121>
+class <lambda_691d425d7fb011a123b433d7d3a7d4b6>
+class <lambda_693b53fa9087f72f695e607cc9530d1f>
+class <lambda_6961936ef6d2e64c6bbcccaedc13b2cd>
+class <lambda_696ab4560ec8c6f9706ae543b75366a8>
+class <lambda_697316c272d8aea0632432072b542c9d>
+class <lambda_69e7d0373a5926cfefa913a83b5a5ad6>
+class <lambda_69f502e3d29d10ecf58acca67b53d4d2>
+class <lambda_6a07ade48d687f98fcfe0f9012f3ac31>
+class <lambda_6a19d099dfeec526d01f7f053d4bdfb0>
+class <lambda_6d22402b49144273e74be75a448f3ee4>
+class <lambda_6d7bd6e2c6c5c7a7dd57bbb692467b95>
+class <lambda_6d9ef3f2a00bdfc3e409a62ce93ccc6a>
+class <lambda_6e007ea88ea403b20da5d032bb5f10c8>
+class <lambda_6e0d1b5a1ab5b5777b00ce07e39b1f8e>
+class <lambda_6e746ab523f11e8bfae7c1d24b35e64f>
+class <lambda_6e8c2079125edbaafdac5456cf3a319f>
+class <lambda_6ef01d368f04bb71ef56838bcd1eae29>
+class <lambda_6f355531273831d898f1976cdfadc611>
+class <lambda_6f5d82c76243aed7ecc420f4c6cf8f5e>
+class <lambda_7006baf06343085a1275c05a94981be8>
+class <lambda_7102373541c909a2afac26da30a0e8e7>
+class <lambda_711c3b7fe4f1fa5617af61c65f2d0aab>
+class <lambda_717c42724511cec2561e5fd584016b59>
+class <lambda_71b1d7cb985538cba91048022fbd09ed>
+class <lambda_721c56986c222a98ae7777e81413a46d>
+class <lambda_725a5d41b60cbab07d4d9674a893a1d9>
+class <lambda_728d40d77a93ebc4520672e592d6b10a>
+class <lambda_72e184401ca6f4cbbfdd2cc0b11b1ddd>
+class <lambda_736008ced810c316f71a0eb7ff0aa0a4>
+class <lambda_73b06b5d1102a6625fa82f8bf07bc470>
+class <lambda_73dc9705053d175ed95adc77ca5b0f14>
+class <lambda_745d31629e47dedce3d992fcb4d9a7b6>
+class <lambda_74a03a677a5663dcab8efa3185ed4a3d>
+class <lambda_7740c154b82c27fc3dab806ddda0b3aa>
+class <lambda_79383ff721e1e446c2930c16fe86e5a2>
+class <lambda_799141f5d22974ea27bac5ee2d9f582e>
+class <lambda_7a5262a2893aa92de59e61228b3092e1>
+class <lambda_7a69c6c4001b602f0cdb3f52ca662ac3>
+class <lambda_7a98a139d2a8f4ee0c83583fe63d784a>
+class <lambda_7b9f44e3ead9e268945d489a72a5d0c6>
+class <lambda_7d5dd556ea36e34768b90a3580a8ede6>
+class <lambda_7d71644ca8477019abe1083fd18fd63a>
+class <lambda_7da2a4acd7a9d1956f0b4455668b3b16>
+class <lambda_7dc59b8e24dad428f7875c4a97ba759a>
+class <lambda_7dc9302e3a7d31fb85f699a344b1c88d>
+class <lambda_7f10c34091ada80fb2f0c38ef437cdf5>
+class <lambda_7f1cd2b641ae5a7a9ae062c039cada76>
+class <lambda_7f2f235afb0a8704aa9761adc634d2a3>
+class <lambda_7f2f97ac8dd304a58b87c6a043cde5d0>
+class <lambda_7f385ef1987b1644b10375974c15a09b>
+class <lambda_800db059ec376e95451542a6207667c8>
+class <lambda_801c1fa30b887296a3176ffefd0d8970>
+class <lambda_807fc8e202b09ec97877ac24245c139a>
+class <lambda_808ac12e7f822e271a2b441390e97e43>
+class <lambda_80a01ab06c8aa2c962f13098db0dc9f6>
+class <lambda_81e06d944de4ab648f4012a6242f694d>
+class <lambda_835171c8c47c4b1a11d4dbede9dcfb35>
+class <lambda_83816df54cd2a7587cbca038ad04b810>
+class <lambda_83e414aa1577c6f92a4e8df1c8159d30>
+class <lambda_8402bc9d98af387a839b7faa4db825d4>
+class <lambda_8415d1d6d5d8e36849d3a393d91c938b>
+class <lambda_84a7ff3f6772196b132fc3ff900cedec>
+class <lambda_84b6557a83da0c6ce7b9d4bf529ea43e>
+class <lambda_85842a46c044d16662c289623c1f9f45>
+class <lambda_85c5c27d5fbf6c3515ec2c4c835708aa>
+class <lambda_8645013330552698954a421ff82c16a1>
+class <lambda_873ff3a238c5e286e3d094bb01706d1e>
+class <lambda_879a51e9ad1fc4e08bef2252e49a18fb>
+class <lambda_87f8777db209394de72b9c88153ccf8e>
+class <lambda_88998e2435b639b170eb4e516fa1531e>
+class <lambda_8899e2ac580b7e6f258093e38e6ac8d9>
+class <lambda_88bb12133e42f990589acfb73550171e>
+class <lambda_891f9dd0bb76fd791b5215c72047b560>
+class <lambda_895cb09da44fca761648014c699ee952>
+class <lambda_89cf05a8e853454416e54c54e3504e30>
+class <lambda_8a01d4b39f6a732ebc029cf267c1de36>
+class <lambda_8a27db0f96dcf31f7c9983a350f6ebf1>
+class <lambda_8a63d7fec541c1e966d9fa2cba6d5faa>
+class <lambda_8a669c8ddf4f22e19c9e1285a5013efd>
+class <lambda_8ad16176e24abad93730bc673f95b2a7>
+class <lambda_8b348409c0634a4983e40a74c1b5ecaf>
+class <lambda_8b4d302b3fd1f79f62a9e3fedde6a754>
+class <lambda_8b9754ebb66e055abf6cbcaead3c9107>
+class <lambda_8baf8e3cfa628dfddd4aa06df0c2e9ec>
+class <lambda_8bcbd5770e3f907542c18eca0b7b9c62>
+class <lambda_8c1caf2310e42b4f50eac250c40c8389>
+class <lambda_8d13a092b630bf7512b2d5ea97fc6f82>
+class <lambda_8d6225437cd4acbd0dd265ff57e3d09b>
+class <lambda_8d9bd598935f59c4b20470606c42df65>
+class <lambda_8df5d1715cf8ca53a7ea304eee99866a>
+class <lambda_8e346eaa78e33698cfe2289cb9c5888d>
+class <lambda_8ef9a7812a9aece3f0e994a092eeee7d>
+class <lambda_8f0a04b4bd6bd4061c4de6b479f60205>
+class <lambda_8f2aa08d33072694d4a50d14ce6ed483>
+class <lambda_8f86f1da2276568b11d07a019923b77e>
+class <lambda_8fa7720ddb2df2ed220da72c65a0f2e9>
+class <lambda_8fedc64f2c20639e96189497a2d424b7>
+class <lambda_90338351dd0aba380c91cef481565ef1>
+class <lambda_90b8f075f93ad4c97351a19b2d779d80>
+class <lambda_90e9197cfd7e3f438c66035950de4d02>
+class <lambda_919412d989e3e4c795803575ceffaeaa>
+class <lambda_9244095a5f20b1a790c703ab581a48f4>
+class <lambda_9288caa0c3a24b843107cf937866cf76>
+class <lambda_928cde42ca41bf71f93c32e0e67c472f>
+class <lambda_92e86f7faafb11250a730af0549a7ad9>
+class <lambda_934333f0cacb7f4a5139adcc681fa7b2>
+class <lambda_935fd1f09b9b79196710f6320e5d1475>
+class <lambda_9379de5a4df531c5e018a446c400f0f6>
+class <lambda_9418fd9d957ac78a8f4aa7e254029d8b>
+class <lambda_94fb5507d7d53d7530b92f0c7f5485fc>
+class <lambda_9533c807209b5cc21856505ce7bc5800>
+class <lambda_953cf21a4f0f971f6cccbf9279eca5c5>
+class <lambda_964308aebf957895769c0efffa7a7f11>
+class <lambda_966ed7a068118b177334d2575d4f8e4a>
+class <lambda_97df8a708df1241b8b82692e576ba635>
+class <lambda_97f74de52688d4b845fcd24955d4f2d8>
+class <lambda_97f8a6b070e0fd3a86005b3a6983f8e6>
+class <lambda_97ff243b14763e3f6c7e89af61cd7bcd>
+class <lambda_986109e47663a362e9adc9b5ffeb190a>
+class <lambda_98bcbdc4719459e4c5f340824ec08caa>
+class <lambda_98e294f91a79508bacb72973e6939f10>
+class <lambda_992d1d12b2d6eee8b2b0de8bace73f08>
+class <lambda_999d88ba97b7d83ca1f3d6f5299ba642>
+class <lambda_9a07365820b23e7d54cfd84667e3acc8>
+class <lambda_9a0f2feeebda86a1dadae0a5e3d557e5>
+class <lambda_9a326a006d5e9a304398eace862511ac>
+class <lambda_9a3b1b20e6c90986f806af9c38d5e160>
+class <lambda_9adf226e6de75426b28f1ac674baa5a0>
+class <lambda_9b5aba0e636ae89c70e9616b8f57223f>
+class <lambda_9d2104c251c8c7b938b69d2245bc3158>
+class <lambda_9d21cd5ec77325ca3d7cfa2a18a86f34>
+class <lambda_9d230bba9492693a167112ca88f65859>
+class <lambda_9d506e09e2bf72d9dce23c3b217e1438>
+class <lambda_9da21d9dae5a56fa4ad026eb318ef2e0>
+class <lambda_9e0269bfb66d0bcf6560b8501a0ac682>
+class <lambda_9ea9a79960cdfa45fc7917c4476c9bf0>
+class <lambda_9f1e93f0a818e7968bf0c8960d74297d>
+class <lambda_9fb5e034415db1f39dd12e79a883f405>
+class <lambda_a02d8012b2158021c4505a10d13d9b90>
+class <lambda_a063b59c7327cd390f4744f160f58349>
+class <lambda_a064c440a59e7b314231680a87b970dd>
+class <lambda_a0c9e899c3af42ad34d00b337d4fc962>
+class <lambda_a0ec4d79649211a577fe1b639896b837>
+class <lambda_a23836960e7759c0c0787b2a07c54352>
+class <lambda_a23e38c0c700acf55dbcc3524fdb5afd>
+class <lambda_a275252dfc337c9022b14a969b1e36b7>
+class <lambda_a3b7ae8191f95032bf6bf14c1aee82ac>
+class <lambda_a3e98ec480e4a3e8d609cd060cbd042a>
+class <lambda_a3f317b9941510e1fdfc2ed3b868a1c0>
+class <lambda_a42f6c297a3fe4f018e01de22ed43f81>
+class <lambda_a44f1dc6cfd6109c164b4f04d5e820cc>
+class <lambda_a475a9d7b7cc3cd2b391af2ed8c10ee3>
+class <lambda_a4c9330e9377cffe5879839a79b25242>
+class <lambda_a5f14d6d9fd10cc5677612ac6cdd8c1f>
+class <lambda_a6211247089dc8c2201562b191ece79b>
+class <lambda_a671d4105a843a691f77ead4a1bafa21>
+class <lambda_a6761d100817933806c1eba5a5334466>
+class <lambda_a806df06cceb06849028fab38cef1f68>
+class <lambda_a81e2a60e890317b41218d3f535c7975>
+class <lambda_a8997d3e5580f5ca3302a7d6738ec68b>
+class <lambda_a96867a07120371d2f7c39e9de9dd2a3>
+class <lambda_a9ea11ae6bf5fab5fabf5048c66ad950>
+class <lambda_aa88244b1c533d69d56000b3b79de5d2>
+class <lambda_ab226389d4d923367e44af913c67a3c7>
+class <lambda_abde7a4e4c0e0419205b2b1ec1d9e0f4>
+class <lambda_abff08f747e90fa17736a79656207ff5>
+class <lambda_ac2493298a5d8bcdf49013335f99ff45>
+class <lambda_ad558fcee1b8db79dc1625799f164182>
+class <lambda_adb406f364ba442166567741f9dcbeb7>
+class <lambda_ae1d49395ba66f86ba9e03ea54e38d0b>
+class <lambda_ae9a7b727d8c0e0107d71b0a02bf6918>
+class <lambda_aef14213305d6082d71c7caf9b58b9f9>
+class <lambda_af3f57a6ae0f93f0f7cbfabc7f08937e>
+class <lambda_b0713b4ed1699f4c02c932cece80eee3>
+class <lambda_b0d5b7237232e63ee8986166c5f8c668>
+class <lambda_b14ad5bfa9e8fe6049a1d96a672b57b4>
+class <lambda_b14dd5d650315b1a426194b4ededda5b>
+class <lambda_b1b7ea9bbea921c2cb1bd2c4253f88d3>
+class <lambda_b2706d8e49615beba5983f90804a0427>
+class <lambda_b2f2480bacd7141e11a7582411e5b69b>
+class <lambda_b2f6e4cfa1d4843748f8ad3178000c50>
+class <lambda_b30aae38b8357ae3872d8fc20208f756>
+class <lambda_b359e212a248fc1e313bcc7865841202>
+class <lambda_b39f1bc00bdb7d74d9ebea9b9b70fb3c>
+class <lambda_b467c469386a15b0c25552456f049e0a>
+class <lambda_b4fd5ea0f407d107404142becaed9146>
+class <lambda_b54bfaac262c774da1e1e0ea13e79e37>
+class <lambda_b5cebb4fd2e70f1db56b6383df7b2bc9>
+class <lambda_b6b87e10f5e3a73cf70876986af85624>
+class <lambda_b7c7418768f92e88f2b463f214e166ce>
+class <lambda_b7e1a5c725c2247d08e444876e1078b8>
+class <lambda_b8309ba1bac34542e3f6329686685e10>
+class <lambda_b83126010f5926bb5d5d495c3aa17ac4>
+class <lambda_b87d2b789d981f1efa37b52945f90f03>
+class <lambda_b8be22f38db9857a3046ee6d6270c2e0>
+class <lambda_b8fcf97c5512e156ed7604fa5cf64c6e>
+class <lambda_b9d7f3f0d0f160547211da6badcb4926>
+class <lambda_b9d86e43d77de56fd17af33898da094b>
+class <lambda_bb001874817ae07fdd7a00650ce8045a>
+class <lambda_bb49096066920f502aca442d13f746aa>
+class <lambda_bb85e88143d210e7cf22a77b066e6fbe>
+class <lambda_bbeb8a24db5bfad4276f848f5bb08d50>
+class <lambda_bd063a41488d4a15e3264bc771a660a1>
+class <lambda_bdf45c2cba80e04b67810f718d22befc>
+class <lambda_bdf6e792f062e10ca42724eb942daa2a>
+class <lambda_be002aae52ff9d0687fb6bf9fb6bde90>
+class <lambda_be03f7b5e34548f6e795e1b13bb1c04e>
+class <lambda_be5adcdacdede700805e740ed6a61839>
+class <lambda_be5bc15c6e2ddee766620ed6de06a1f8>
+class <lambda_be7435db42ee6a52a8504f096b9bc140>
+class <lambda_be8953b2191ac8e6c8529cf3a9370107>
+class <lambda_be9c09c1967dddb8f8075f0e73738c05>
+class <lambda_bfd49a7cc4addacd5a7405e3c886e389>
+class <lambda_c0abdd16559e2fc55990e71cf8c59666>
+class <lambda_c1a8ca6c2fb29b76ac14c5f808d139fc>
+class <lambda_c1f140a745327ce0f7cf88f1f9b44c8b>
+class <lambda_c2187754e2e4966c0ffd219c73eb6f0c>
+class <lambda_c4169d0d46f87b45c6bede2f5c52ca80>
+class <lambda_c600fb8bc6000e9193891095edc544b4>
+class <lambda_c720e7aa5eff993ce2003fcd2bd5e0b1>
+class <lambda_c7ea80b4a6cc761bff5c6debc20efeb1>
+class <lambda_c7f6fa615acfa760879ad90d84a713f8>
+class <lambda_c800a7685319f9dc40a90ad9e090873e>
+class <lambda_c81ec01f4117d517a1cff6c860ef6897>
+class <lambda_c8360f7811173a2c6f64f343ac30b8e3>
+class <lambda_c870b1aedca1c59f5856fb22fe8c1189>
+class <lambda_c879cd4639d549e7376914351ef1784c>
+class <lambda_c8ffafdaff5a6d9ebaa75dfd9af4e25a>
+class <lambda_c90c8e114e5ffbdc3840bfe1470a3360>
+class <lambda_c9d9fb7273c8c4c915a81fb7de85d46d>
+class <lambda_c9db0c73fe136dda527d8c068496eae5>
+class <lambda_ca691293f633816295ff8bc6103960f9>
+class <lambda_cb842dbce05b0445e53b30972b23f2aa>
+class <lambda_cd0b5c26bf2bd955b146cf640d59c8c8>
+class <lambda_cd87709fa5288751357d65cc2f05a797>
+class <lambda_cdb1823e8790db76e5600fb6245a1289>
+class <lambda_cde89f4ff085dd6a56d29c034554f2bb>
+class <lambda_cee0f3b82d861b49220fcca119f05cf6>
+class <lambda_cf2070f02ba1a930a55e62d6526021fa>
+class <lambda_d0708efac2b451e26acd13b149a8f611>
+class <lambda_d16d38d6d1d00a4ce42a3b24714c1f7d>
+class <lambda_d18054229739c53f208a7e6d98230ade>
+class <lambda_d1b2d90b883219cf1e93dbfd60b2f373>
+class <lambda_d1d45a373c7aa8320393ad3a996cff1a>
+class <lambda_d1ff9209a3e51ca063ce1a182910734c>
+class <lambda_d34383465164df15d3e60c4c0516514c>
+class <lambda_d389b5055a97eefb1151eb63c5469402>
+class <lambda_d3edac7f631cde7faec7d843964dc027>
+class <lambda_d4030d93c2e14e8e1fcd3235aa058cec>
+class <lambda_d412713618ce235eb14a341b7a0a6783>
+class <lambda_d451e660d06eda358255dc53572558fa>
+class <lambda_d51a465a7fb577f7996bb8e58abdf3c9>
+class <lambda_d58e5fa22cc427d436ad0628565594a6>
+class <lambda_d5b285fba15320e33d73dd4c79aa6230>
+class <lambda_d60028e9b5cc9aad3fa6c0e6116a49f2>
+class <lambda_d644a039d84698d72f11588efb500eae>
+class <lambda_d6d9a67bae69810f35306064075f15aa>
+class <lambda_d6f654d415ba955b40fd30437608e5ce>
+class <lambda_d729c1fccbad9a81b8dee38d32e6e3b9>
+class <lambda_d7e51d749d9b01ff8b9c21437468cdb2>
+class <lambda_d8038f4e54ee7c2ae9c6668dc5787231>
+class <lambda_d8af8a0959f66077bb323390ac17123e>
+class <lambda_d8fcb9056d95b2993cd3bd0b87522b8d>
+class <lambda_d967e5bf5c66313ab55cfe3069d89c73>
+class <lambda_d9d8d007151d54b5a51428201f092d87>
+class <lambda_da5189ba313711043114a8512da5f98d>
+class <lambda_db86ec6bf1341ac129324804b56a73ae>
+class <lambda_db9f252d6f1e02844a5344279bcd9394>
+class <lambda_dcc9c377b759a54228c81d02b2c115fd>
+class <lambda_dcee3e9d7f2a361362bfb56f8e89f1d2>
+class <lambda_ddcf1155f4ac46614403d84ed599bd6a>
+class <lambda_e00cb9bc004a8de8d5d4a33942602cc9>
+class <lambda_e09589dba9777000cf95911c910e399e>
+class <lambda_e0a1fba443dad654afa60b614cecf389>
+class <lambda_e0f1d531cbae79fb32cdf89f27f93726>
+class <lambda_e214c70f70a5cfb18a955aa3e9ae30e5>
+class <lambda_e3183a185d1e9e545a7fdd828250684e>
+class <lambda_e33177cb3367dbaf6a032074d716b445>
+class <lambda_e365720bdd55985763213d4f72aec2d3>
+class <lambda_e465fd528703da02c52a34f85ba99d0e>
+class <lambda_e4b9d1e5ab67a589f9e19088c8958ed3>
+class <lambda_e5c177fe17d7682b5faa52d1b49dce76>
+class <lambda_e680f994ee9b02cc4a7698ff094e69c1>
+class <lambda_e6f179367135acda03bac15faf89bfd7>
+class <lambda_e7c189c6580778e22601883199472e50>
+class <lambda_e7c1b7907189da1123832e2c864aa7b9>
+class <lambda_e7d314cc9b8567b12a9fa09854db6e78>
+class <lambda_e8147c0ffa2d4900c0ab929b83f21083>
+class <lambda_e83bf955be24a60cff8e066b1fe153cb>
+class <lambda_e86395828c14401123e15110c04b7330>
+class <lambda_e9bc0fa3f2f1ce989adb3fc53e0329ec>
+class <lambda_ea86e9ea25a2d2f6c53c2aa44c0ea0f5>
+class <lambda_ec48c4a6cb75db66e57049aa3697fbe3>
+class <lambda_ed04dbcdfa0d98eca03b4f592328c1dc>
+class <lambda_ed6bd23741a40f03ed4f8a27323cbe66>
+class <lambda_ed829275192208134edcf778631329db>
+class <lambda_edacf31ec77f69abd8875169ec7705a4>
+class <lambda_ee010ad06aa8368621041179544f2ee2>
+class <lambda_ee3017ae385a98bb15a0ac81bc4cb824>
+class <lambda_ee6aa6b306274d97d7b4df03c392dd91>
+class <lambda_eed8b5419b9c9984b1393a98e425201f>
+class <lambda_eeea4632cbbde7134ffba24ce46548c6>
+class <lambda_efc1b11cd62e165a89f0b1d3170d7c11>
+class <lambda_f00bd175c6fb02b9030f302254ea24c0>
+class <lambda_f0c0957415902be65a45d4f754c41ae8>
+class <lambda_f136eece802d310c8d6f8d743fd26ecf>
+class <lambda_f1befe12373f788a60eb8d7d34caad2a>
+class <lambda_f27aa644154b55508dfbf3729af9a635>
+class <lambda_f29faa002475c5455acb1ee550e1edc1>
+class <lambda_f2e31a595bf0223f5ea7bdd1faed0317>
+class <lambda_f321043842cdb048c10859a5e382e71e>
+class <lambda_f4059993e93668eaab709800bef0b39b>
+class <lambda_f439c7aae700373dbab2f55165aba635>
+class <lambda_f55f2180cf498f7ccc2d854147e1f6a1>
+class <lambda_f5db8b428d08f04655a6f15531f3e6df>
+class <lambda_f6601e2e5ba217c4f7c720f0b899cc50>
+class <lambda_f6f5d825a87acabbb9fb3fe2481b63bd>
+class <lambda_f704935a34d5a59ae792b040a9083d36>
+class <lambda_f71ca603e2e98755e250da66ac6b4c75>
+class <lambda_f75a2b89b1aed022a5ca6cea0c5ef378>
+class <lambda_f7a8f3ed3b5b0c0fef3503d7d9c82372>
+class <lambda_f825ccf0914739a94742dd607e97847e>
+class <lambda_f8c53756d5fae1296f44683e43b6b400>
+class <lambda_f972a846ce2d8b0225b83635ee7376d8>
+class <lambda_fa656a4fa8abe769dc5af8b2df5dfe40>
+class <lambda_fa79989713cf0160dbd19fbb6242aecc>
+class <lambda_fac22757d05443e44e8a4392f45f08b0>
+class <lambda_facd39cf33e5659b16cee4314c33a313>
+class <lambda_fbb74f5c487fb0d2a016b5fd621ee5d3>
+class <lambda_fcb4aa034c9c7ee189e2f41e2a01cc50>
+class <lambda_fcb8a7453910cc1b149a99aa68032d4a>
+class <lambda_fcbb1bf8b3e84541f8a4ebe8aad5d131>
+class <lambda_fdbf6cd48ab0652332705fcf318d9491>
+class <lambda_febcf8722e2bec18b0400b81afdac9a3>
+class <lambda_ff58b464135e425084e768b74bad5fb6>
+class <lambda_ff74df3a85cbb09fcf3f28dd1ec7c58d>
+class <lambda_ff79ede16d53c1a9f43f0a1e51df0ff0>
+class <lambda_ffc4f64ac4583c936d7c23946ea9ba33>
+class attr::Attribute
+class attr::Choice
+class attr::DynamicChoice
+class attr::Icon
+class attr::Label
+class attr::MinMax
+class attr::MinMaxVector3
+class attr::Slider
+class attr::SoftMinMax
+class attr::ToggleBtn
+class attr::Tooltip
+class Bink
+class C2dArray
+class CDistantLightsResource
+class CFileManager
+class charNode
+class CIESDataResource
+class ClassWrapper<__int64>
+class ClassWrapper<bool>
+class ClassWrapper<char>
+class ClassWrapper<class attr::Attribute>
+class ClassWrapper<class attr::Choice>
+class ClassWrapper<class attr::DynamicChoice>
+class ClassWrapper<class attr::Icon>
+class ClassWrapper<class attr::Label>
+class ClassWrapper<class attr::MinMax>
+class ClassWrapper<class attr::MinMaxVector3>
+class ClassWrapper<class attr::Slider>
+class ClassWrapper<class attr::SoftMinMax>
+class ClassWrapper<class attr::ToggleBtn>
+class ClassWrapper<class attr::Tooltip>
+class ClassWrapper<class Bink>
+class ClassWrapper<class C2dArray>
+class ClassWrapper<class CDateTime>
+class ClassWrapper<class CDistantLightsResource>
+class ClassWrapper<class CEnvDisplaySettingsParams>
+class ClassWrapper<class CFrustum>
+class ClassWrapper<class CIESDataResource>
+class ClassWrapper<class CName>
+class ClassWrapper<class CReflectionProbeDataResource>
+class ClassWrapper<class CResource>
+class ClassWrapper<class curve::SingleChannelCurve>
+class ClassWrapper<class DataBuffer [2]>
+class ClassWrapper<class DataBuffer>
+class ClassWrapper<class IBackendData>
+class ClassWrapper<class IDynamicTextureGenerator>
+class ClassWrapper<class IRenderResourceBlob>
+class ClassWrapper<class IScriptable>
+class ClassWrapper<class IScriptError>
+class ClassWrapper<class IScriptFixer>
+class ClassWrapper<class IScriptIssue>
+class ClassWrapper<class IScriptRuntimeIssue>
+class ClassWrapper<class IScriptWarning>
+class ClassWrapper<class ISerializable>
+class ClassWrapper<class ITonemappingMode>
+class ClassWrapper<class JsonResource>
+class ClassWrapper<class mathExpr::Expression>
+class ClassWrapper<class MultiChannelCurveType>
+class ClassWrapper<class red::AbsolutePath>
+class ClassWrapper<class red::CallbackObject>
+class ClassWrapper<class red::CHelpCommandlet>
+class ClassWrapper<class red::DynArray<class CName> >
+class ClassWrapper<class red::DynArray<class red::DynArray<class red::String> > >
+class ClassWrapper<class red::DynArray<class red::DynArray<unsigned int> > >
+class ClassWrapper<class red::DynArray<class red::String> >
+class ClassWrapper<class red::DynArray<class TResAsyncRef<class CResource> > >
+class ClassWrapper<class red::DynArray<enum EEnvManagerModifier> >
+class ClassWrapper<class red::DynArray<float> >
+class ClassWrapper<class red::DynArray<struct rend::Chunk> >
+class ClassWrapper<class red::DynArray<struct rend::EmitterLOD> >
+class ClassWrapper<class red::DynArray<struct rend::HistogramBias> >
+class ClassWrapper<class red::DynArray<struct rend::ParticleBurst> >
+class ClassWrapper<class red::DynArray<struct rend::RenderMorphTargetMeshBlobTextureData> >
+class ClassWrapper<class red::DynArray<struct rend::RenderTextureBlobMipMapInfo> >
+class ClassWrapper<class red::DynArray<struct rend::TextureRegionPart> >
+class ClassWrapper<class red::DynArray<struct rend::TopologyData> >
+class ClassWrapper<class red::DynArray<struct Vector4> >
+class ClassWrapper<class red::DynArray<unsigned char> >
+class ClassWrapper<class red::DynArray<unsigned int> >
+class ClassWrapper<class red::ErrorResult>
+class ClassWrapper<class red::Event>
+class ClassWrapper<class red::GUID>
+class ClassWrapper<class red::ICommandlet>
+class ClassWrapper<class red::PackageCustomTypeSerializer>
+class ClassWrapper<class red::PackageDataBufferSerializer>
+class ClassWrapper<class red::PackageRUIDSerializer>
+class ClassWrapper<class red::PackageStringSerializer>
+class ClassWrapper<class red::PackageTweakDBIDSerializer>
+class ClassWrapper<class red::ResourceListResource>
+class ClassWrapper<class red::ResourceReferenceScriptToken>
+class ClassWrapper<class red::RUID>
+class ClassWrapper<class red::RUIDRef>
+class ClassWrapper<class red::StaticArray<enum GpuWrapApi::eTextureFormat,8> >
+class ClassWrapper<class red::StaticArray<struct GpuWrapApi::VertexPacking::PackingElement,32> >
+class ClassWrapper<class red::StaticArray<struct Vector4,3> >
+class ClassWrapper<class red::StaticArray<unsigned char,3> >
+class ClassWrapper<class red::StaticArray<unsigned char,8> >
+class ClassWrapper<class red::StaticArray<unsigned int,3> >
+class ClassWrapper<class red::StaticArray<unsigned int,5> >
+class ClassWrapper<class red::StaticArray<unsigned short,3> >
+class ClassWrapper<class red::String>
+class ClassWrapper<class red::TagList>
+class ClassWrapper<class red::TagSystem>
+class ClassWrapper<class rend::DebugDrawerScriptProxy>
+class ClassWrapper<class rend::Font>
+class ClassWrapper<class rend::IRenderTextureBlob>
+class ClassWrapper<class rend::RenderMeshBlob>
+class ClassWrapper<class rend::RenderMorphTargetMeshBlob>
+class ClassWrapper<class rend::RenderMultilayerMaskBlob>
+class ClassWrapper<class rend::RenderMultilayerMaskBlobPC>
+class ClassWrapper<class rend::RenderMultilayerMaskBlobProspero>
+class ClassWrapper<class rend::RenderMultilayerMaskBlobPS4>
+class ClassWrapper<class rend::RenderMultilayerMaskBlobScarlett>
+class ClassWrapper<class rend::RenderMultilayerMaskBlobXboxOne>
+class ClassWrapper<class rend::RenderMultilayerMaskResource>
+class ClassWrapper<class rend::RenderParticleBlob>
+class ClassWrapper<class rend::RenderTextureBlobPC>
+class ClassWrapper<class rend::RenderTextureBlobProspero>
+class ClassWrapper<class rend::RenderTextureBlobPS4>
+class ClassWrapper<class rend::RenderTextureBlobScarlett>
+class ClassWrapper<class rend::RenderTextureBlobStreamable>
+class ClassWrapper<class rend::RenderTextureBlobXboxOne>
+class ClassWrapper<class rend::RenderTextureResource>
+class ClassWrapper<class res::DlcManifest>
+class ClassWrapper<class res::IStreamedResourceDataExtractor>
+class ClassWrapper<class res::ResourceMetricsReportGenerator>
+class ClassWrapper<class res::ResourceSnapshot>
+class ClassWrapper<class res::StreamedResource>
+class ClassWrapper<class rtti::Variant>
+class ClassWrapper<class ScriptErrorStaticNotCalledOnClass>
+class ClassWrapper<class ScriptFixerArgConvertPassByOutToRef>
+class ClassWrapper<class ScriptFixerArgConvertPassByValueToConstRef>
+class ClassWrapper<class ScriptFixerArgConvertToRefType>
+class ClassWrapper<class ScriptFixerArgNotUsed>
+class ClassWrapper<class ScriptFixerConstexprFunction>
+class ClassWrapper<class ScriptFixerDeadFunctions>
+class ClassWrapper<class ScriptFixerEmptyFunction>
+class ClassWrapper<class ScriptFixerLocalVarInitializedButNotUsed>
+class ClassWrapper<class ScriptFixerLocalVarNotUsed>
+class ClassWrapper<class ScriptFixerRuntimeIssueFunctionCalledFromCppButNotMarkedAsExport>
+class ClassWrapper<class ScriptFixerStaticNotCalledOnClass>
+class ClassWrapper<class ScriptRuntimeIssueFunctionCalledFromCppButNotMarkedAsExport>
+class ClassWrapper<class ScriptWarningArgAll>
+class ClassWrapper<class ScriptWarningArgImportNotRefType>
+class ClassWrapper<class ScriptWarningArgNotUsed>
+class ClassWrapper<class ScriptWarningAssignToArgument>
+class ClassWrapper<class ScriptWarningConstexprFunction>
+class ClassWrapper<class ScriptWarningEmptyFunction>
+class ClassWrapper<class ScriptWarningExpensivePassByOut>
+class ClassWrapper<class ScriptWarningExpensivePassByValue>
+class ClassWrapper<class ScriptWarningLocalVarAll>
+class ClassWrapper<class ScriptWarningLocalVarInitializedButNotUsed>
+class ClassWrapper<class ScriptWarningLocalVarNotUsed>
+class ClassWrapper<class ScriptWarningLocalVarUsedButNotInitialized>
+class ClassWrapper<class ScriptWarningOutArgNotUsed>
+class ClassWrapper<class ScriptWarningOutArgUsedButNotInitialized>
+class ClassWrapper<class ScriptWarningPropertyAll>
+class ClassWrapper<class ScriptWarningPropertyInitializedButNotUsed>
+class ClassWrapper<class ScriptWarningPropertyNotUsed>
+class ClassWrapper<class ScriptWarningPropertyUsedButNotInitialized>
+class ClassWrapper<class ScriptWarningReportDeadAll>
+class ClassWrapper<class ScriptWarningReportDeadClasses>
+class ClassWrapper<class ScriptWarningReportDeadEnums>
+class ClassWrapper<class ScriptWarningReportDeadFunctions>
+class ClassWrapper<class ScriptWarningReportDeadImportFunctions>
+class ClassWrapper<class ScriptWarningReportEmptyAll>
+class ClassWrapper<class ScriptWarningReportEmptyClasses>
+class ClassWrapper<class ScriptWarningReportEmptyStructs>
+class ClassWrapper<class serialization::DeferredDataBuffer>
+class ClassWrapper<class SharedDataBuffer>
+class ClassWrapper<class simd::QsTransform>
+class ClassWrapper<class simd::Vector4>
+class ClassWrapper<class THandle<class IRenderResourceBlob> >
+class ClassWrapper<class THandle<class ISerializable> >
+class ClassWrapper<class TimeOfDayVisibilityResource>
+class ClassWrapper<class TonemappingModeACES>
+class ClassWrapper<class TonemappingModeACESApprox>
+class ClassWrapper<class TonemappingModeLinear>
+class ClassWrapper<class TonemappingModeLottes>
+class ClassWrapper<class TonemappingModeLottesACES>
+class ClassWrapper<class tools::MessageResourcePath>
+class ClassWrapper<class TResAsyncRef<class CResource> >
+class ClassWrapper<class vis::IOccluderResource>
+class ClassWrapper<class vis::OccluderMeshResource>
+class ClassWrapper<class WorldLightingConfig>
+class ClassWrapper<class WorldShadowConfig>
+class ClassWrapper<class XmlResource>
+class ClassWrapper<double>
+class ClassWrapper<enum CensorshipFlags>
+class ClassWrapper<enum Config::GraphicsQualityLevel>
+class ClassWrapper<enum Config::MeshQualityLevel>
+class ClassWrapper<enum Config::TextureQualityLevel>
+class ClassWrapper<enum curve::EInterpolationType>
+class ClassWrapper<enum curve::ESegmentsLinkType>
+class ClassWrapper<enum EAreaLightShape>
+class ClassWrapper<enum EColorMappingFunction>
+class ClassWrapper<enum EColorPrimary>
+class ClassWrapper<enum EComparisonType>
+class ClassWrapper<enum ECookingPlatform>
+class ClassWrapper<enum ECustomMaterialParam>
+class ClassWrapper<enum EDecalRenderMode>
+class ClassWrapper<enum EDepthCollisionEffect>
+class ClassWrapper<enum EDynamicDecalSpawnPriority>
+class ClassWrapper<enum EEmitterGroup>
+class ClassWrapper<enum EEnvColorGroup>
+class ClassWrapper<enum EEnvManagerModifier>
+class ClassWrapper<enum EFeatureFlag>
+class ClassWrapper<enum ELightShadowCastingMode>
+class ClassWrapper<enum ELightShadowSoftnessMode>
+class ClassWrapper<enum ELightType>
+class ClassWrapper<enum ELightUnit>
+class ClassWrapper<enum EMaterialModifier>
+class ClassWrapper<enum EMaterialPriority>
+class ClassWrapper<enum EMaterialShaderTarget>
+class ClassWrapper<enum EMaterialShadingRateMode>
+class ClassWrapper<enum EMeshChunkFlags>
+class ClassWrapper<enum EMeshChunkRenderMask>
+class ClassWrapper<enum EMeshParticleOrientationMode>
+class ClassWrapper<enum EMeshShadowImportanceBias>
+class ClassWrapper<enum ENoiseType>
+class ClassWrapper<enum envUtils::NeighborMode>
+class ClassWrapper<enum envUtils::ReflectionProbeAmbientContributionMode>
+class ClassWrapper<enum EParticleEventSpawnObject>
+class ClassWrapper<enum EParticleEventType>
+class ClassWrapper<enum ERenderDynamicDecalAtlas>
+class ClassWrapper<enum ERenderDynamicDecalProjection>
+class ClassWrapper<enum ERenderingMode>
+class ClassWrapper<enum ERenderingPlane>
+class ClassWrapper<enum ERenderMaterialType>
+class ClassWrapper<enum ERenderMeshStreams>
+class ClassWrapper<enum ERenderObjectType>
+class ClassWrapper<enum ERenderProxyType>
+class ClassWrapper<enum ESaveFormat>
+class ClassWrapper<enum ESSAOQualityLevel>
+class ClassWrapper<enum ETextureAddressing>
+class ClassWrapper<enum ETextureChannel>
+class ClassWrapper<enum ETextureComparisonFunction>
+class ClassWrapper<enum ETextureCompression>
+class ClassWrapper<enum ETextureFilteringMag>
+class ClassWrapper<enum ETextureFilteringMin>
+class ClassWrapper<enum ETextureFilteringMip>
+class ClassWrapper<enum ETextureRawFormat>
+class ClassWrapper<enum ETimeOfYearSeason>
+class ClassWrapper<enum GpuWrapApi::BufferGroup>
+class ClassWrapper<enum GpuWrapApi::eBufferChunkCategory>
+class ClassWrapper<enum GpuWrapApi::eIndexBufferChunkType>
+class ClassWrapper<enum GpuWrapApi::eTextureFormat>
+class ClassWrapper<enum GpuWrapApi::eTextureGroup>
+class ClassWrapper<enum GpuWrapApi::eTextureType>
+class ClassWrapper<enum GpuWrapApi::VertexPacking::ePackingType>
+class ClassWrapper<enum GpuWrapApi::VertexPacking::ePackingUsage>
+class ClassWrapper<enum GpuWrapApi::VertexPacking::EStreamType>
+class ClassWrapper<enum IMaterialDataProviderDesc::EParameterType>
+class ClassWrapper<enum MorphTargets::DiffTextureSize>
+class ClassWrapper<enum MorphTargets::FaceRegion>
+class ClassWrapper<enum PSODesc::BlendMode::Factor>
+class ClassWrapper<enum PSODesc::BlendMode::Op>
+class ClassWrapper<enum PSODesc::BlendMode::WriteMask>
+class ClassWrapper<enum PSODesc::DepthStencilMode::ComparisonMode>
+class ClassWrapper<enum PSODesc::DepthStencilMode::StencilOpMode>
+class ClassWrapper<enum PSODesc::PrimitiveTopologyType>
+class ClassWrapper<enum PSODesc::RasterizerMode::CullMode>
+class ClassWrapper<enum PSODesc::RasterizerMode::FrontFaceWinding>
+class ClassWrapper<enum PSODesc::RasterizerMode::OffsetMode>
+class ClassWrapper<enum red::TaskTextMessage::Type>
+class ClassWrapper<enum rend::CaptureContextType>
+class ClassWrapper<enum rend::ContactShadowReciever>
+class ClassWrapper<enum rend::dim::EPreset>
+class ClassWrapper<enum rend::EParticleSortingMode>
+class ClassWrapper<enum rend::EStreamingObserverMode>
+class ClassWrapper<enum rend::GIGroup>
+class ClassWrapper<enum rend::GIVolume>
+class ClassWrapper<enum rend::LightAttenuation>
+class ClassWrapper<enum rend::LightChannel>
+class ClassWrapper<enum rend::LightGroup>
+class ClassWrapper<enum rend::PostFx_ScanningState>
+class ClassWrapper<enum rend::ResolutionMultiplier>
+class ClassWrapper<enum rend::ScreenshotMode>
+class ClassWrapper<enum rend::WindShapeAnchorPointDepth>
+class ClassWrapper<enum rend::WindShapeAnchorPointHorz>
+class ClassWrapper<enum rend::WindShapeAnchorPointVert>
+class ClassWrapper<enum RenderDecalNormalsBlendingMode>
+class ClassWrapper<enum RenderDecalOrderPriority>
+class ClassWrapper<enum renderDev::EnvProbeView>
+class ClassWrapper<enum renderDev::GIProbeView>
+class ClassWrapper<enum renderDev::SurfelView>
+class ClassWrapper<enum renderDev::TXAADebugMode>
+class ClassWrapper<enum RenderSceneLayer>
+class ClassWrapper<enum RenderSceneLayerMask>
+class ClassWrapper<enum vis::WorldOccluderType>
+class ClassWrapper<float [6]>
+class ClassWrapper<float>
+class ClassWrapper<int>
+class ClassWrapper<short>
+class ClassWrapper<struct AbsolutePathSerializable>
+class ClassWrapper<struct Box>
+class ClassWrapper<struct Color>
+class ClassWrapper<struct ColorBalance>
+class ClassWrapper<struct ContactShadowsConfig>
+class ClassWrapper<struct ConvexHull>
+class ClassWrapper<struct CutCone>
+class ClassWrapper<struct Cylinder>
+class ClassWrapper<struct EmitterGroupParams>
+class ClassWrapper<struct EngineTime>
+class ClassWrapper<struct EulerAngles>
+class ClassWrapper<struct FeatureFlagsMask>
+class ClassWrapper<struct FixedCapsule>
+class ClassWrapper<struct FixedPoint>
+class ClassWrapper<struct FoliageShadowConfig>
+class ClassWrapper<struct fx::CompositionShaderParams>
+class ClassWrapper<struct game::data::TweakDBID>
+class ClassWrapper<struct GpuWrapApi::VertexLayoutDesc>
+class ClassWrapper<struct GpuWrapApi::VertexPacking::PackingElement>
+class ClassWrapper<struct HDRColor>
+class ClassWrapper<struct MaterialUsedParameter>
+class ClassWrapper<struct math::Box>
+class ClassWrapper<struct math::Color>
+class ClassWrapper<struct math::CutCone>
+class ClassWrapper<struct math::Cylinder>
+class ClassWrapper<struct math::EulerAngles>
+class ClassWrapper<struct math::FixedCapsule>
+class ClassWrapper<struct math::FixedPoint<int,17> >
+class ClassWrapper<struct math::Matrix>
+class ClassWrapper<struct math::OrientedBox>
+class ClassWrapper<struct math::Plane>
+class ClassWrapper<struct math::Point>
+class ClassWrapper<struct math::Quad>
+class ClassWrapper<struct math::Quaternion>
+class ClassWrapper<struct math::Rect>
+class ClassWrapper<struct math::RectF>
+class ClassWrapper<struct math::Segment>
+class ClassWrapper<struct math::Sphere>
+class ClassWrapper<struct math::Tetrahedron>
+class ClassWrapper<struct math::Transform>
+class ClassWrapper<struct math::Vector2>
+class ClassWrapper<struct math::Vector3>
+class ClassWrapper<struct math::Vector4>
+class ClassWrapper<struct math::WorldPosition>
+class ClassWrapper<struct math::WorldTransform>
+class ClassWrapper<struct Matrix>
+class ClassWrapper<struct MorphTargets::TextureBlendInfo>
+class ClassWrapper<struct OrientedBox>
+class ClassWrapper<struct Plane>
+class ClassWrapper<struct Point>
+class ClassWrapper<struct Point3D>
+class ClassWrapper<struct PSODesc::BlendModeDesc>
+class ClassWrapper<struct PSODesc::DepthStencilModeDesc>
+class ClassWrapper<struct PSODesc::RasterizerModeDesc>
+class ClassWrapper<struct PSODesc::RenderTarget [8]>
+class ClassWrapper<struct PSODesc::RenderTarget>
+class ClassWrapper<struct PSODesc::RenderTargetSetup>
+class ClassWrapper<struct PSODesc::StencilFuncDesc>
+class ClassWrapper<struct QsTransform>
+class ClassWrapper<struct Quad>
+class ClassWrapper<struct Quaternion>
+class ClassWrapper<struct Rect>
+class ClassWrapper<struct RectF>
+class ClassWrapper<struct red::ConvexHullEx>
+class ClassWrapper<struct red::StageMessage>
+class ClassWrapper<struct red::TaskNameMessage>
+class ClassWrapper<struct red::TaskProgressMessage>
+class ClassWrapper<struct red::TaskTextMessage>
+class ClassWrapper<struct red::TOMLArrayBool>
+class ClassWrapper<struct red::TOMLArrayFloat>
+class ClassWrapper<struct red::TOMLArrayInt64>
+class ClassWrapper<struct red::TOMLArrayString>
+class ClassWrapper<struct red::TOMLArrayTable>
+class ClassWrapper<struct red::TOMLArrayTransform>
+class ClassWrapper<struct red::TOMLBaseValue>
+class ClassWrapper<struct red::TOMLKeyValue>
+class ClassWrapper<struct red::TOMLTable>
+class ClassWrapper<struct rend::CaptureParameters>
+class ClassWrapper<struct rend::Chunk>
+class ClassWrapper<struct rend::EmitterDelaySettings>
+class ClassWrapper<struct rend::EmitterDurationSettings>
+class ClassWrapper<struct rend::EmitterLOD>
+class ClassWrapper<struct rend::EmitterSimulationShaders>
+class ClassWrapper<struct rend::GradientEntry>
+class ClassWrapper<struct rend::GridGeneratorData>
+class ClassWrapper<struct rend::HairProfileGradientEntry>
+class ClassWrapper<struct rend::HistogramBias>
+class ClassWrapper<struct rend::IndexBufferChunk>
+class ClassWrapper<struct rend::ParticleBurst>
+class ClassWrapper<struct rend::RenderMeshBlobHeader>
+class ClassWrapper<struct rend::RenderMorphTargetMeshBlobHeader>
+class ClassWrapper<struct rend::RenderMorphTargetMeshBlobTextureData>
+class ClassWrapper<struct rend::RenderMultilayerMaskBlobHeader>
+class ClassWrapper<struct rend::RenderParticleBlobEmitterInfo>
+class ClassWrapper<struct rend::RenderParticleBlobHeader>
+class ClassWrapper<struct rend::RenderParticleUpdaterData>
+class ClassWrapper<struct rend::RenderTextureBlobHeader>
+class ClassWrapper<struct rend::RenderTextureBlobMemoryLayout>
+class ClassWrapper<struct rend::RenderTextureBlobMipMapInfo>
+class ClassWrapper<struct rend::RenderTextureBlobPlacement>
+class ClassWrapper<struct rend::RenderTextureBlobSizeInfo>
+class ClassWrapper<struct rend::RenderTextureBlobTextureInfo>
+class ClassWrapper<struct rend::ScreenshotBatchData>
+class ClassWrapper<struct rend::SingleScreenShotData>
+class ClassWrapper<struct rend::SLightFlickering>
+class ClassWrapper<struct rend::TextureRegion>
+class ClassWrapper<struct rend::TextureRegionPart>
+class ClassWrapper<struct rend::TopologyData>
+class ClassWrapper<struct rend::VertexBufferChunk>
+class ClassWrapper<struct SamplerStateInfo>
+class ClassWrapper<struct ScriptReentrantRWLock>
+class ClassWrapper<struct Segment>
+class ClassWrapper<struct ShadowCascadeConfig>
+class ClassWrapper<struct SOMState>
+class ClassWrapper<struct Sphere>
+class ClassWrapper<struct STextureGroupSetup>
+class ClassWrapper<struct STonemappingACESParams>
+class ClassWrapper<struct STonemappingACESParamsHDR>
+class ClassWrapper<struct STonemappingACESParamsSDR>
+class ClassWrapper<struct SWeaponPlaneParams>
+class ClassWrapper<struct Tetrahedron>
+class ClassWrapper<struct Transform>
+class ClassWrapper<struct TSingleChannelCurve<float> >
+class ClassWrapper<struct Vector2>
+class ClassWrapper<struct Vector3>
+class ClassWrapper<struct Vector4>
+class ClassWrapper<struct WorldPosition>
+class ClassWrapper<struct WorldTransform>
+class ClassWrapper<unsigned __int64>
+class ClassWrapper<unsigned char [128]>
+class ClassWrapper<unsigned char>
+class ClassWrapper<unsigned int>
+class ClassWrapper<unsigned short [128]>
+class ClassWrapper<unsigned short>
+class CMemoryFileReader
+class CMemoryFileReaderExternalBuffer
+class CMemoryFileReaderWithBuffer
+class CNullFileWriter
+class Concurrency::details::stl_critical_section_interface
+class Concurrency::details::stl_critical_section_vista
+class Concurrency::details::stl_critical_section_win7
+class Config::IConfigVar
+class Config::TConfigVar<bool>
+class Config::TConfigVar<class red::String>
+class Config::TConfigVar<float>
+class Config::TConfigVar<int>
+class Config::TConfigVar<struct Color>
+class CReflectionProbeDataResource
+class CResource
+class CScriptDataEnvironmentMapper
+class CScriptDataLoader
+class CScriptDataTypes::IValueParser
+class CScriptDataTypes::NameParser
+class CScriptDataTypes::ResRefParser
+class CScriptDataTypes::StringParser
+class CScriptDataTypes::TweakDBIDParser
+class CScriptDataTypes::ValueParser<__int64>
+class CScriptDataTypes::ValueParser<bool>
+class CScriptDataTypes::ValueParser<char>
+class CScriptDataTypes::ValueParser<double>
+class CScriptDataTypes::ValueParser<float>
+class CScriptDataTypes::ValueParser<int>
+class CScriptDataTypes::ValueParser<short>
+class CScriptDataTypes::ValueParser<unsigned __int64>
+class CScriptDataTypes::ValueParser<unsigned char>
+class CScriptDataTypes::ValueParser<unsigned int>
+class CScriptDataTypes::ValueParser<unsigned short>
+class CScriptedDataBitfield
+class CScriptedDataClass
+class CScriptedDataEnum
+class CScriptedDataFileInfo
+class CScriptedDataFunction
+class CScriptedDataFunctionLocal
+class CScriptedDataFunctionParam
+class CScriptedDataNamedValue
+class CScriptedDataProperty
+class CScriptedDataTypeRef
+class CScriptingSystem
+class CScriptOpcodeTransformer
+class CSingletonCriticalSection
+class DataBufferType
+class DNameNode
+class DNameStatusNode
+class Emitter
+class fs::BufferedReader
+class fs::BufferedTempFile
+class fs::BufferedWriter
+class fs::RawFileReader
+class fs::RawFileWriter
+class FunctionNameDecorator::FunctionDescription
+class FunctionNameDecorator::TypeDescription
+class GpuApi::PoolDebug
+class Helper::CodeDiskToMemory
+class Helper::CodeMemoryToDisk
+class Helper::CodeMemoryToRuntime
+class Helper::CodeRuntimeToRuntime
+class Helper::CScriptableCollector
+class IFile
+class IGpuDataProcessor
+class IIOProfiler
+class io::AsyncFileHandleCache
+class io::EditorFileHandleCache
+class IRender
+class IRenderResourceBlob
+class IScriptable
+class IScriptDataErrorReporter
+class IScriptDataLoader
+class IScriptDataObject
+class IScriptDataSaver
+class IScriptError
+class IScriptFixer
+class IScriptingSystem
+class IScriptIssue
+class IScriptLogInterface
+class IScriptRuntimeIssue
+class IScriptSyntaxNodeVisitor
+class IScriptWarning
+class ISerializable
+class ITextureBlobCooking
+class ITonemappingMode
+class job::PoolJobs2Data
+class job::PoolJobs2Debug
+class json::JsonFormatResourceLoader<class JsonResource,class red::PoolResource>
+class JsonResource
+class JsonResourceLoader
+class lexer::native::IListener
+class Loader2dArray
+class MarkDebugForRemovalASTVisitor
+class mathExpr::Expression
+class MultiChannelCurveType
+class NullIOProfiler
+class OptimizeASTVisitor
+class pairNode
+class pcharNode
+class pDNameNode
+class physx::Ext::D6Joint
+class physx::Ext::DistanceJoint
+class physx::Ext::FixedJoint
+class physx::Ext::PrismaticJoint
+class physx::Ext::RevoluteJoint
+class physx::Ext::SphericalJoint
+class physx::PxActor * __ptr64
+class physx::PxAggregate * __ptr64
+class physx::PxArticulation * __ptr64
+class physx::PxArticulationLink * __ptr64
+class physx::PxArticulationLink const * __ptr64
+class physx::PxBase * __ptr64
+class physx::PxClothFabric * __ptr64
+class physx::PxConstraint * __ptr64
+class physx::PxConvexMesh * __ptr64
+class physx::PxHeightField * __ptr64
+class physx::PxMassProperties
+class physx::PxMaterial * __ptr64
+class physx::PxShape * __ptr64
+class physx::PxTransform
+class physx::PxTriangleMesh * __ptr64
+class physx::PxVec3
+class physx::shdfnd::Pair<class physx::PxBase * __ptr64,unsigned __int64>
+class physx::shdfnd::Pair<enum physx::PxConcreteType::Enum,unsigned int>
+class physx::Sn::ConvX
+class physx::Sn::MetaData
+class physx::Sn::SerializationRegistry
+class PoolCompression
+class red::AbstractDataError
+class red::CallbackObject
+class red::CHelpCommandlet
+class red::DataErrorAction
+class red::Event
+class red::FixedSizeFunction<void __cdecl(void),32,8>
+class red::Function<void __cdecl(class ent::EntityID),24,8>
+class red::Function<void __cdecl(class THandle<class game::ItemDropObject> & __ptr64),24,8>
+class red::ICommandlet
+class red::internal::UniqueBufferAllocatorInterface
+class red::internal::UniqueBufferPoolAllocator
+class red::InternalDataError
+class red::IProcessStatusReporter
+class red::IStageController
+class red::LoggerSink
+class red::LoggerWorker
+class red::memory::AbstractMetricsCapture
+class red::memory::LocklessSlabAllocator::SlabChunkAllocator
+class red::memory::MemoryStream
+class red::memory::MetricsCaptureWin
+class red::memory::Pool
+class red::memory::PoolOOMHandler
+class red::memory::PoolOOMHandlerBreak
+class red::memory::PoolOOMHandlerIgnore
+class red::memory::SlabChunkAllocatorInterface
+class red::memory::Stream
+class red::memory::StreamView::NullStream
+class red::memory::SystemAllocator
+class red::memory::SystemAllocatorWin
+class red::memory::SystemOOMHandler
+class red::memory::SystemOOMHandlerBreak
+class red::memory::SystemPageAllocator
+class red::memory::SystemPageAllocatorWin
+class red::memory::ThreadIdProvider
+class red::memory::ThreadMonitor
+class red::NonCopyable
+class red::NullStatusReporter
+class red::PackageCustomTypeSerializer
+class red::PackageDataBufferSerializer
+class red::PackageRUIDSerializer
+class red::PackageStringSerializer
+class red::PackageTweakDBIDSerializer
+class red::PackageTypeSerializer
+class red::PoolAttribute
+class red::PoolBackend
+class red::PoolCore
+class red::PoolCurves
+class red::PoolDebug
+class red::PoolDefault
+class red::PoolEngine
+class red::PoolEvent
+class red::PoolLegacyOperator
+class red::PoolResource
+class red::PoolRTTI
+class red::PoolRTTIFunction
+class red::PoolRTTIProperty
+class red::PoolScript
+class red::PoolScriptCompiler
+class red::PoolSerializable
+class red::PoolString
+class red::ResourceListResource
+class red::ShowAssetDataErrorAction
+class red::Thread
+class red::TTYSink
+class RemoveNodesASTVisitor
+class rend::Font
+class rend::IRenderTextureBlob
+class rend::PoolEnvironment
+class rend::PoolFont
+class rend::PoolFreeType
+class rend::PoolLighting
+class rend::PoolMesh
+class rend::PoolOccluderShapes
+class rend::PoolParticleData
+class rend::PoolPostProcessAndEffects
+class rend::PoolPSO
+class rend::PoolReflectionProbes
+class rend::PoolRenderBlobs
+class rend::PoolRenderBlobsBuffers
+class rend::PoolRenderData
+class rend::PoolRenderingUI
+class rend::PoolShaderCacheData
+class rend::PoolTexture
+class rend::RenderMeshBlob
+class rend::RenderMorphTargetMeshBlob
+class rend::RenderMultilayerMaskBlob
+class rend::RenderMultilayerMaskBlobPC
+class rend::RenderMultilayerMaskBlobProspero
+class rend::RenderMultilayerMaskBlobPS4
+class rend::RenderMultilayerMaskBlobScarlett
+class rend::RenderMultilayerMaskBlobXboxOne
+class rend::RenderParticleBlob
+class rend::RenderTextureBlobPC
+class rend::RenderTextureBlobProspero
+class rend::RenderTextureBlobPS4
+class rend::RenderTextureBlobScarlett
+class rend::RenderTextureBlobStreamable
+class rend::RenderTextureBlobXboxOne
+class res::DlcManifest
+class res::json::PoolJSON
+class res::ResourceMetricsReportGenerator
+class res::ResourceSnapshot
+class res::StreamedResource
+class rtti::AbstractClassType
+class rtti::ArrayType
+class rtti::BitFieldType
+class rtti::ClassType
+class rtti::EnumType
+class rtti::Function
+class rtti::FundamentalTypeBool
+class rtti::FundamentalTypeDouble
+class rtti::FundamentalTypeFloat
+class rtti::FundamentalTypeInt16
+class rtti::FundamentalTypeInt32
+class rtti::FundamentalTypeInt64
+class rtti::FundamentalTypeInt8
+class rtti::FundamentalTypeUint16
+class rtti::FundamentalTypeUint32
+class rtti::FundamentalTypeUint64
+class rtti::FundamentalTypeUint8
+class rtti::HandleType
+class rtti::IBaseArrayType
+class rtti::IBasePointerType
+class rtti::IFundamentalType<__int64>
+class rtti::IFundamentalType<bool>
+class rtti::IFundamentalType<char>
+class rtti::IFundamentalType<double>
+class rtti::IFundamentalType<float>
+class rtti::IFundamentalType<int>
+class rtti::IFundamentalType<short>
+class rtti::IFundamentalType<unsigned __int64>
+class rtti::IFundamentalType<unsigned char>
+class rtti::IFundamentalType<unsigned int>
+class rtti::IFundamentalType<unsigned short>
+class rtti::IType
+class rtti::ITypeSystem
+class rtti::NativeArrayType
+class rtti::NativeGlobalFunction
+class rtti::NativeMemberFunction
+class rtti::PointerType
+class rtti::ResourceAsyncReferenceType
+class rtti::ResourceReferenceType
+class rtti::ScriptedClassType
+class rtti::ScriptedMemberFunction
+class rtti::ScriptedReferenceType
+class rtti::StaticArrayType
+class rtti::StubClassType
+class rtti::StubSimpleType
+class rtti::TAbstractClassType<class CResource>
+class rtti::TAbstractClassType<class IBackendData>
+class rtti::TAbstractClassType<class IDynamicTextureGenerator>
+class rtti::TAbstractClassType<class IRenderResourceBlob>
+class rtti::TAbstractClassType<class IScriptError>
+class rtti::TAbstractClassType<class IScriptFixer>
+class rtti::TAbstractClassType<class IScriptIssue>
+class rtti::TAbstractClassType<class IScriptRuntimeIssue>
+class rtti::TAbstractClassType<class IScriptWarning>
+class rtti::TAbstractClassType<class ISerializable>
+class rtti::TAbstractClassType<class ITonemappingMode>
+class rtti::TAbstractClassType<class red::ICommandlet>
+class rtti::TAbstractClassType<class red::PackageCustomTypeSerializer>
+class rtti::TAbstractClassType<class rend::RenderMultilayerMaskBlob>
+class rtti::TAbstractClassType<class res::IStreamedResourceDataExtractor>
+class rtti::TAbstractClassType<class res::StreamedResource>
+class rtti::TAbstractClassType<class ScriptFixerArgConvertToRefType>
+class rtti::TAbstractClassType<class vis::IOccluderResource>
+class rtti::TNativeClass<class attr::Attribute>
+class rtti::TNativeClass<class attr::Choice>
+class rtti::TNativeClass<class attr::DynamicChoice>
+class rtti::TNativeClass<class attr::Icon>
+class rtti::TNativeClass<class attr::Label>
+class rtti::TNativeClass<class attr::MinMax>
+class rtti::TNativeClass<class attr::MinMaxVector3>
+class rtti::TNativeClass<class attr::Slider>
+class rtti::TNativeClass<class attr::SoftMinMax>
+class rtti::TNativeClass<class attr::ToggleBtn>
+class rtti::TNativeClass<class attr::Tooltip>
+class rtti::TNativeClass<class CEnvDisplaySettingsParams>
+class rtti::TNativeClass<class CFrustum>
+class rtti::TNativeClass<class curve::SingleChannelCurve>
+class rtti::TNativeClass<class IScriptable>
+class rtti::TNativeClass<class mathExpr::Expression>
+class rtti::TNativeClass<class red::CallbackObject>
+class rtti::TNativeClass<class red::CHelpCommandlet>
+class rtti::TNativeClass<class red::ErrorResult>
+class rtti::TNativeClass<class red::Event>
+class rtti::TNativeClass<class red::PackageDataBufferSerializer>
+class rtti::TNativeClass<class red::PackageRUIDSerializer>
+class rtti::TNativeClass<class red::PackageStringSerializer>
+class rtti::TNativeClass<class red::PackageTweakDBIDSerializer>
+class rtti::TNativeClass<class red::ResourceReferenceScriptToken>
+class rtti::TNativeClass<class red::TagList>
+class rtti::TNativeClass<class red::TagSystem>
+class rtti::TNativeClass<class rend::RenderMultilayerMaskResource>
+class rtti::TNativeClass<class rend::RenderTextureResource>
+class rtti::TNativeClass<class res::ResourceMetricsReportGenerator>
+class rtti::TNativeClass<class ScriptFixerArgConvertPassByOutToRef>
+class rtti::TNativeClass<class ScriptFixerArgConvertPassByValueToConstRef>
+class rtti::TNativeClass<class ScriptFixerArgNotUsed>
+class rtti::TNativeClass<class ScriptFixerConstexprFunction>
+class rtti::TNativeClass<class ScriptFixerDeadFunctions>
+class rtti::TNativeClass<class ScriptFixerEmptyFunction>
+class rtti::TNativeClass<class ScriptFixerLocalVarInitializedButNotUsed>
+class rtti::TNativeClass<class ScriptFixerLocalVarNotUsed>
+class rtti::TNativeClass<class ScriptFixerRuntimeIssueFunctionCalledFromCppButNotMarkedAsExport>
+class rtti::TNativeClass<class ScriptFixerStaticNotCalledOnClass>
+class rtti::TNativeClass<class ScriptWarningArgAll>
+class rtti::TNativeClass<class ScriptWarningArgImportNotRefType>
+class rtti::TNativeClass<class ScriptWarningAssignToArgument>
+class rtti::TNativeClass<class ScriptWarningLocalVarAll>
+class rtti::TNativeClass<class ScriptWarningLocalVarUsedButNotInitialized>
+class rtti::TNativeClass<class ScriptWarningOutArgNotUsed>
+class rtti::TNativeClass<class ScriptWarningOutArgUsedButNotInitialized>
+class rtti::TNativeClass<class ScriptWarningPropertyAll>
+class rtti::TNativeClass<class ScriptWarningPropertyInitializedButNotUsed>
+class rtti::TNativeClass<class ScriptWarningPropertyNotUsed>
+class rtti::TNativeClass<class ScriptWarningPropertyUsedButNotInitialized>
+class rtti::TNativeClass<class ScriptWarningReportDeadAll>
+class rtti::TNativeClass<class ScriptWarningReportDeadClasses>
+class rtti::TNativeClass<class ScriptWarningReportDeadEnums>
+class rtti::TNativeClass<class ScriptWarningReportDeadImportFunctions>
+class rtti::TNativeClass<class ScriptWarningReportEmptyAll>
+class rtti::TNativeClass<class ScriptWarningReportEmptyClasses>
+class rtti::TNativeClass<class ScriptWarningReportEmptyStructs>
+class rtti::TNativeClass<class TonemappingModeACES>
+class rtti::TNativeClass<class TonemappingModeACESApprox>
+class rtti::TNativeClass<class TonemappingModeLinear>
+class rtti::TNativeClass<class TonemappingModeLottes>
+class rtti::TNativeClass<class TonemappingModeLottesACES>
+class rtti::TNativeClass<class WorldLightingConfig>
+class rtti::TNativeClass<class WorldShadowConfig>
+class rtti::TNativeClass<struct AbsolutePathSerializable>
+class rtti::TNativeClass<struct Box>
+class rtti::TNativeClass<struct Color>
+class rtti::TNativeClass<struct ColorBalance>
+class rtti::TNativeClass<struct ContactShadowsConfig>
+class rtti::TNativeClass<struct ConvexHull>
+class rtti::TNativeClass<struct CutCone>
+class rtti::TNativeClass<struct Cylinder>
+class rtti::TNativeClass<struct EmitterGroupParams>
+class rtti::TNativeClass<struct EngineTime>
+class rtti::TNativeClass<struct EulerAngles>
+class rtti::TNativeClass<struct FeatureFlagsMask>
+class rtti::TNativeClass<struct FixedCapsule>
+class rtti::TNativeClass<struct FixedPoint>
+class rtti::TNativeClass<struct FoliageShadowConfig>
+class rtti::TNativeClass<struct fx::CompositionShaderParams>
+class rtti::TNativeClass<struct GpuWrapApi::VertexLayoutDesc>
+class rtti::TNativeClass<struct GpuWrapApi::VertexPacking::PackingElement>
+class rtti::TNativeClass<struct HDRColor>
+class rtti::TNativeClass<struct MaterialUsedParameter>
+class rtti::TNativeClass<struct Matrix>
+class rtti::TNativeClass<struct MorphTargets::TextureBlendInfo>
+class rtti::TNativeClass<struct OrientedBox>
+class rtti::TNativeClass<struct Plane>
+class rtti::TNativeClass<struct Point>
+class rtti::TNativeClass<struct Point3D>
+class rtti::TNativeClass<struct PSODesc::BlendModeDesc>
+class rtti::TNativeClass<struct PSODesc::DepthStencilModeDesc>
+class rtti::TNativeClass<struct PSODesc::RasterizerModeDesc>
+class rtti::TNativeClass<struct PSODesc::RenderTarget>
+class rtti::TNativeClass<struct PSODesc::RenderTargetSetup>
+class rtti::TNativeClass<struct PSODesc::StencilFuncDesc>
+class rtti::TNativeClass<struct QsTransform>
+class rtti::TNativeClass<struct Quad>
+class rtti::TNativeClass<struct Quaternion>
+class rtti::TNativeClass<struct Rect>
+class rtti::TNativeClass<struct RectF>
+class rtti::TNativeClass<struct red::StageMessage>
+class rtti::TNativeClass<struct red::TaskNameMessage>
+class rtti::TNativeClass<struct red::TaskProgressMessage>
+class rtti::TNativeClass<struct red::TaskTextMessage>
+class rtti::TNativeClass<struct red::TOMLBaseValue>
+class rtti::TNativeClass<struct rend::CaptureParameters>
+class rtti::TNativeClass<struct rend::Chunk>
+class rtti::TNativeClass<struct rend::EmitterDelaySettings>
+class rtti::TNativeClass<struct rend::EmitterDurationSettings>
+class rtti::TNativeClass<struct rend::EmitterLOD>
+class rtti::TNativeClass<struct rend::GradientEntry>
+class rtti::TNativeClass<struct rend::GridGeneratorData>
+class rtti::TNativeClass<struct rend::HairProfileGradientEntry>
+class rtti::TNativeClass<struct rend::HistogramBias>
+class rtti::TNativeClass<struct rend::IndexBufferChunk>
+class rtti::TNativeClass<struct rend::ParticleBurst>
+class rtti::TNativeClass<struct rend::RenderMeshBlobHeader>
+class rtti::TNativeClass<struct rend::RenderMorphTargetMeshBlobHeader>
+class rtti::TNativeClass<struct rend::RenderMorphTargetMeshBlobTextureData>
+class rtti::TNativeClass<struct rend::RenderMultilayerMaskBlobHeader>
+class rtti::TNativeClass<struct rend::RenderParticleBlobEmitterInfo>
+class rtti::TNativeClass<struct rend::RenderParticleBlobHeader>
+class rtti::TNativeClass<struct rend::RenderParticleUpdaterData>
+class rtti::TNativeClass<struct rend::RenderTextureBlobHeader>
+class rtti::TNativeClass<struct rend::RenderTextureBlobMemoryLayout>
+class rtti::TNativeClass<struct rend::RenderTextureBlobMipMapInfo>
+class rtti::TNativeClass<struct rend::RenderTextureBlobPlacement>
+class rtti::TNativeClass<struct rend::RenderTextureBlobSizeInfo>
+class rtti::TNativeClass<struct rend::RenderTextureBlobTextureInfo>
+class rtti::TNativeClass<struct rend::ScreenshotBatchData>
+class rtti::TNativeClass<struct rend::SingleScreenShotData>
+class rtti::TNativeClass<struct rend::SLightFlickering>
+class rtti::TNativeClass<struct rend::TextureRegion>
+class rtti::TNativeClass<struct rend::TextureRegionPart>
+class rtti::TNativeClass<struct rend::TopologyData>
+class rtti::TNativeClass<struct rend::VertexBufferChunk>
+class rtti::TNativeClass<struct SamplerStateInfo>
+class rtti::TNativeClass<struct Segment>
+class rtti::TNativeClass<struct ShadowCascadeConfig>
+class rtti::TNativeClass<struct SOMState>
+class rtti::TNativeClass<struct Sphere>
+class rtti::TNativeClass<struct STextureGroupSetup>
+class rtti::TNativeClass<struct STonemappingACESParams>
+class rtti::TNativeClass<struct STonemappingACESParamsHDR>
+class rtti::TNativeClass<struct STonemappingACESParamsSDR>
+class rtti::TNativeClass<struct SWeaponPlaneParams>
+class rtti::TNativeClass<struct Tetrahedron>
+class rtti::TNativeClass<struct Transform>
+class rtti::TNativeClass<struct Vector2>
+class rtti::TNativeClass<struct Vector3>
+class rtti::TNativeClass<struct Vector4>
+class rtti::TNativeClass<struct WorldPosition>
+class rtti::TNativeClass<struct WorldTransform>
+class rtti::TNativeClassNoCopy<class Bink>
+class rtti::TNativeClassNoCopy<class C2dArray>
+class rtti::TNativeClassNoCopy<class CDistantLightsResource>
+class rtti::TNativeClassNoCopy<class CIESDataResource>
+class rtti::TNativeClassNoCopy<class CReflectionProbeDataResource>
+class rtti::TNativeClassNoCopy<class JsonResource>
+class rtti::TNativeClassNoCopy<class red::ResourceListResource>
+class rtti::TNativeClassNoCopy<class rend::DebugDrawerScriptProxy>
+class rtti::TNativeClassNoCopy<class rend::Font>
+class rtti::TNativeClassNoCopy<class rend::IRenderTextureBlob>
+class rtti::TNativeClassNoCopy<class rend::RenderMeshBlob>
+class rtti::TNativeClassNoCopy<class rend::RenderMorphTargetMeshBlob>
+class rtti::TNativeClassNoCopy<class rend::RenderMultilayerMaskBlobPC>
+class rtti::TNativeClassNoCopy<class rend::RenderMultilayerMaskBlobProspero>
+class rtti::TNativeClassNoCopy<class rend::RenderMultilayerMaskBlobPS4>
+class rtti::TNativeClassNoCopy<class rend::RenderMultilayerMaskBlobScarlett>
+class rtti::TNativeClassNoCopy<class rend::RenderMultilayerMaskBlobXboxOne>
+class rtti::TNativeClassNoCopy<class rend::RenderParticleBlob>
+class rtti::TNativeClassNoCopy<class rend::RenderTextureBlobPC>
+class rtti::TNativeClassNoCopy<class rend::RenderTextureBlobProspero>
+class rtti::TNativeClassNoCopy<class rend::RenderTextureBlobPS4>
+class rtti::TNativeClassNoCopy<class rend::RenderTextureBlobScarlett>
+class rtti::TNativeClassNoCopy<class rend::RenderTextureBlobStreamable>
+class rtti::TNativeClassNoCopy<class rend::RenderTextureBlobXboxOne>
+class rtti::TNativeClassNoCopy<class res::DlcManifest>
+class rtti::TNativeClassNoCopy<class res::ResourceSnapshot>
+class rtti::TNativeClassNoCopy<class ScriptErrorStaticNotCalledOnClass>
+class rtti::TNativeClassNoCopy<class ScriptRuntimeIssueFunctionCalledFromCppButNotMarkedAsExport>
+class rtti::TNativeClassNoCopy<class ScriptWarningArgNotUsed>
+class rtti::TNativeClassNoCopy<class ScriptWarningConstexprFunction>
+class rtti::TNativeClassNoCopy<class ScriptWarningEmptyFunction>
+class rtti::TNativeClassNoCopy<class ScriptWarningExpensivePassByOut>
+class rtti::TNativeClassNoCopy<class ScriptWarningExpensivePassByValue>
+class rtti::TNativeClassNoCopy<class ScriptWarningLocalVarInitializedButNotUsed>
+class rtti::TNativeClassNoCopy<class ScriptWarningLocalVarNotUsed>
+class rtti::TNativeClassNoCopy<class ScriptWarningReportDeadFunctions>
+class rtti::TNativeClassNoCopy<class TimeOfDayVisibilityResource>
+class rtti::TNativeClassNoCopy<class vis::OccluderMeshResource>
+class rtti::TNativeClassNoCopy<class XmlResource>
+class rtti::TNativeClassNoCopy<struct red::ConvexHullEx>
+class rtti::TNativeClassNoCopy<struct red::TOMLArrayBool>
+class rtti::TNativeClassNoCopy<struct red::TOMLArrayFloat>
+class rtti::TNativeClassNoCopy<struct red::TOMLArrayInt64>
+class rtti::TNativeClassNoCopy<struct red::TOMLArrayString>
+class rtti::TNativeClassNoCopy<struct red::TOMLArrayTable>
+class rtti::TNativeClassNoCopy<struct red::TOMLArrayTransform>
+class rtti::TNativeClassNoCopy<struct red::TOMLKeyValue>
+class rtti::TNativeClassNoCopy<struct red::TOMLTable>
+class rtti::TNativeClassNoCopy<struct rend::EmitterSimulationShaders>
+class rtti::TNativeClassNoCopy<struct ScriptReentrantRWLock>
+class rtti::TSimpleType<class CDateTime>
+class rtti::TSimpleType<class rtti::Variant>
+class rtti::TSimpleType<class tools::MessageResourcePath>
+class rtti::TypeSystemImpl
+class rtti::WeakHandleType
+class Saver2dArray
+class scc::HumanReadable::LogWriter
+class scc::json::LogWriter
+class scc::Log::Writer
+class scc::ScriptCompilationLogListener
+class script::DecoratorFunctionDescription
+class script::DecoratorTypeDescription
+class script::IPerformanceAnalyzer
+class script::PassByOutAnalyzerVisitor
+class script::PassByValueAnalyzerVisitor
+class script::PerformanceAnalyzer_PassByOut
+class script::PerformanceAnalyzer_PassByValue
+class script::token::Eater
+class script::token::IListener
+class script::token::Sharer
+class ScriptErrorStaticNotCalledOnClass
+class ScriptFixerArgConvertPassByOutToRef
+class ScriptFixerArgConvertPassByValueToConstRef
+class ScriptFixerArgConvertToRefType
+class ScriptFixerArgNotUsed
+class ScriptFixerConstexprFunction
+class ScriptFixerDeadFunctions
+class ScriptFixerEmptyFunction
+class ScriptFixerLocalVarInitializedButNotUsed
+class ScriptFixerLocalVarNotUsed
+class ScriptFixerRuntimeIssueFunctionCalledFromCppButNotMarkedAsExport
+class ScriptFixerStaticNotCalledOnClass
+class ScriptRuntimeIssueFunctionCalledFromCppButNotMarkedAsExport
+class ScriptValidationLog
+class ScriptWarningArgAll
+class ScriptWarningArgImportNotRefType
+class ScriptWarningArgNotUsed
+class ScriptWarningAssignToArgument
+class ScriptWarningConstexprFunction
+class ScriptWarningEmptyFunction
+class ScriptWarningExpensivePassByOut
+class ScriptWarningExpensivePassByValue
+class ScriptWarningLocalVarAll
+class ScriptWarningLocalVarInitializedButNotUsed
+class ScriptWarningLocalVarNotUsed
+class ScriptWarningLocalVarUsedButNotInitialized
+class ScriptWarningOutArgNotUsed
+class ScriptWarningOutArgUsedButNotInitialized
+class ScriptWarningPropertyAll
+class ScriptWarningPropertyInitializedButNotUsed
+class ScriptWarningPropertyNotUsed
+class ScriptWarningPropertyUsedButNotInitialized
+class ScriptWarningReportDeadAll
+class ScriptWarningReportDeadClasses
+class ScriptWarningReportDeadEnums
+class ScriptWarningReportDeadFunctions
+class ScriptWarningReportDeadImportFunctions
+class ScriptWarningReportEmptyAll
+class ScriptWarningReportEmptyClasses
+class ScriptWarningReportEmptyStructs
+class serialization::DeferredDataBufferType
+class serialization::helper::AsyncSourceBufferAsyncProxy
+class serialization::helper::MemoryFileBufferAsyncProxy
+class serialization::IBufferAsyncProxy
+class serialization::ILoader
+class serialization::IMapper
+class serialization::ISaver
+class serialization::NullMapper
+class serialization::RuntimeTables
+class serialization::TextFormatResourceLoader<class C2dArray,0>
+class serialization::TextFormatResourceLoader<class XmlResource,1>
+class SharedDataBufferType
+class SingleChannelCurveType
+class snappy::ByteArraySource
+class snappy::Source
+class std::__non_rtti_object
+class std::_Binder<struct std::_Unforced,void (__cdecl FunctionalTests::FTRenderingStats::*)(class red::UniquePtr<class FunctionalTestsMessage::RawMessage,class red::memory::DefaultUniquePtrDestructor> & __ptr64) __ptr64,class FunctionalTests::FTRenderingStats * __ptr64,struct std::_Ph<1> const & __ptr64>
+class std::_Binder<struct std::_Unforced,void (__cdecl FunctionalTests::LowPerformanceProcessor::*)(class red::UniquePtr<class FunctionalTestsMessage::RawMessage,class red::memory::DefaultUniquePtrDestructor> & __ptr64) __ptr64,class FunctionalTests::LowPerformanceProcessor * __ptr64,struct std::_Ph<1> const & __ptr64>
+class std::_Binder<struct std::_Unforced,void (__cdecl FunctionalTests::MemoryStats::*)(class red::UniquePtr<class FunctionalTestsMessage::RawMessage,class red::memory::DefaultUniquePtrDestructor> & __ptr64) __ptr64,class FunctionalTests::MemoryStats * __ptr64,struct std::_Ph<1> const & __ptr64>
+class std::_Binder<struct std::_Unforced,void (__cdecl FunctionalTests::MessageHandlersPlayer::*)(void) __ptr64,class FunctionalTests::MessageHandlersPlayer * __ptr64>
+class std::_Binder<struct std::_Unforced,void (__cdecl FunctionalTests::TimeStats::*)(class red::UniquePtr<class FunctionalTestsMessage::RawMessage,class red::memory::DefaultUniquePtrDestructor> & __ptr64) __ptr64,class FunctionalTests::TimeStats * __ptr64,struct std::_Ph<1> const & __ptr64>
+class std::_Func_base<bool>
+class std::_Func_base<class CScriptFile * __ptr64,unsigned int>
+class std::_Func_base<class IRender * __ptr64>
+class std::_Func_base<class serialization::ILoader * __ptr64>
+class std::_Func_base<class serialization::ISaver * __ptr64>
+class std::_Func_base<unsigned __int64>
+class std::_Func_base<void,class IRender * __ptr64>
+class std::_Func_impl_no_alloc<class <lambda_0885ea72e8c513c7f115c4e5862b96f8>,class CScriptFile * __ptr64,unsigned int>
+class std::_Func_impl_no_alloc<class <lambda_0a3006d07c4b14c8b8fc5eb9d1f4bb7d>,bool>
+class std::_Func_impl_no_alloc<class <lambda_0b164721ce4454c2ff32e0084b5522fe>,class IRender * __ptr64>
+class std::_Func_impl_no_alloc<class <lambda_0eb196f91176837205859117db05c1b7>,class serialization::ILoader * __ptr64>
+class std::_Func_impl_no_alloc<class <lambda_13759746cc9e8022c0a6b612e88c2886>,class CScriptFile * __ptr64,unsigned int>
+class std::_Func_impl_no_alloc<class <lambda_1aefa769f6c6267a74354dd46d029556>,class serialization::ILoader * __ptr64>
+class std::_Func_impl_no_alloc<class <lambda_1b0f1119b3d826db5394a1ff8d4d5882>,class serialization::ILoader * __ptr64>
+class std::_Func_impl_no_alloc<class <lambda_31637f091874ea39d319d8d4efe15256>,unsigned __int64>
+class std::_Func_impl_no_alloc<class <lambda_e365720bdd55985763213d4f72aec2d3>,class serialization::ISaver * __ptr64>
+class std::_Func_impl_no_alloc<class <lambda_e8147c0ffa2d4900c0ab929b83f21083>,void,class IRender * __ptr64>
+class std::_Generic_error_category
+class std::_System_error
+class std::bad_cast
+class std::bad_exception
+class std::bad_function_call
+class std::bad_typeid
+class std::error_category
+class std::exception
+class std::function<void __cdecl(class game::ItemObject const * __ptr64)>
+class std::length_error
+class std::logic_error
+class std::out_of_range
+class std::runtime_error
+class std::system_error
+class temp::SimpleTypeRawSerialization_CGUID
+class temp::SimpleTypeRawSerialization_CName
+class temp::SimpleTypeRawSerialization_CRUID
+class temp::SimpleTypeRawSerialization_CRUIDRef
+class temp::SimpleTypeRawSerialization_String
+class temp::SimpleTypeRawSerialization_TweakDBID
+class temp::TSimpleTypeRawSerialization<class CName>
+class temp::TSimpleTypeRawSerialization<class red::GUID>
+class temp::TSimpleTypeRawSerialization<class red::RUID>
+class temp::TSimpleTypeRawSerialization<class red::RUIDRef>
+class temp::TSimpleTypeRawSerialization<class red::String>
+class temp::TSimpleTypeRawSerialization<struct game::data::TweakDBID>
+class TimeOfDayVisibilityResource
+class TonemappingModeACES
+class TonemappingModeACESApprox
+class TonemappingModeLinear
+class TonemappingModeLottes
+class TonemappingModeLottesACES
+class type_info
+class vis::IOccluderResource
+class vis::OccluderMeshResource
+class xml::Document
+class xml::DocumentRapidXML
+class XmlResource
+class XmlResourceLoader
+struct Item
+struct physx::PxMetaDataEntry
+struct physx::Sn::ExportReference
+struct physx::Sn::Handle16Remap::InternalData
+struct physx::Sn::ImportReference
+struct physx::Sn::InternalReferenceHandle16
+struct physx::Sn::InternalReferencePtr
+struct physx::Sn::ManifestEntry
+struct physx::Sn::MetaClass
+struct physx::Sn::MetaClass * __ptr64
+struct physx::Sn::PointerRemap::InternalData
+struct physx::Sn::PxMetaDataEntry
+struct physx::Sn::Union
+struct physx::Sn::UnionType
+struct red::TOMLArray<__int64>
+struct red::TOMLArray<bool>
+struct red::TOMLArray<class red::String>
+struct red::TOMLArray<class THandle<struct red::TOMLTable> >
+struct red::TOMLArray<float>
+struct red::TOMLArray<struct Transform>
+struct red::TOMLArrayBool
+struct red::TOMLArrayFloat
+struct red::TOMLArrayInt64
+struct red::TOMLArrayString
+struct red::TOMLArrayTable
+struct red::TOMLArrayTransform
+struct red::TOMLBaseValue
+struct red::TOMLKeyValue
+struct red::TOMLTable
+struct rend::GradientEntry
+struct rend::GridGeneratorData
+struct rend::HairProfileGradientEntry
+struct rend::RenderParticleUpdaterData
+struct rend::ScreenshotBatchData
+struct rend::SingleScreenShotData
+struct rend::TextureRegion
+struct rend::TextureRegionPart
+struct rtti::FunctionContext
+struct rtti::FunctionContext_ExternalParams
+struct rtti::FunctionContext_RttiParams
+struct rtti::FunctionContext_StringParams
+struct rtti::impl::FunctionContext_ResultWrapper
+struct rtti::ScriptedFunctionContext
+struct rtti::ScriptedOrNativeFunctionContext
+struct STonemappingACESParams
+struct STonemappingACESParamsHDR
+struct STonemappingACESParamsSDR
+void (__cdecl*)(class CName,class CName)
+void (__cdecl*)(class physx::PxOutputStream & __ptr64)
+void (__cdecl*)(struct audio::MusicSyncInfo const & __ptr64)

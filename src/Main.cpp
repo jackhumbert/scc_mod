@@ -1,92 +1,139 @@
 #include "Proxies/redlexer_native.hpp"
+#include "red/red.hpp"
+#include <DetourTransaction.hpp>
+#include <winuser.h>
 
-BOOL APIENTRY DllMain(HMODULE aModule, DWORD aReason, LPVOID aReserved)
-{
-    switch (aReason)
-    {
-    case DLL_PROCESS_ATTACH:
-    {
-        DisableThreadLibraryCalls(aModule);
+using namespace red;
 
-        try
-        {
-            if (!redlexer::LoadOriginal())
-            {
-                return FALSE;
-            }
+struct IDK {
+  uint64_t unk00;
+  uint64_t unk08;
+  uint64_t unk10;
+  uint64_t unk18;
+  uint64_t unk20;
+  uint64_t unk28;
+  uint64_t unk30;
+  uint64_t unk38;
+};
 
-            constexpr auto msgCaption = L"RED4ext";
-            constexpr auto dir = L"red4ext";
-            constexpr auto dll = L"RED4ext.dll";
+struct ScriptCompiledUnk170 {
+  HashMap<Name, ScriptedDataClass*> classMap; // 9070 - ChoiceTypeWrapper
+  HashMap<Name, ScriptedDataFunction*> functionMap; // 1105 - GetLocalizedItemNameByString
+  HashMap<Name, ScriptedDataTypeRef*> typeMap; // 13641 - inkWidgetRef
+  DynArray<ScriptedDataFileInfo *> fileInfos; // 1830 script files
+  DynArray<ScriptedDataFunction *> functions; // 1005
+  DynArray<ScriptedDataEnum*> enums; // 774 enums (396 imported)
+  DynArray<IScriptDataObject*> unkC0; // empty
+  DynArray<ScriptedDataClass*> classes; // 8296 classes (2513 imported)
+  DynArray<ScriptedDataTypeRef*> types; // 13642
+  DynArray<IDK> unkF0; // 3510
+};
 
-            std::wstring fileName;
-            auto hr = wil::GetModuleFileNameW(nullptr, fileName);
-            if (FAILED(hr))
-            {
-                wil::unique_hlocal_ptr<wchar_t> buffer;
-                auto errorCode = GetLastError();
+bool ready = false;
+DynArray<ScriptedDataFileInfo *> * fileInfos;
+std::vector<ScriptedDataEnum*> enums;
 
-                FormatMessage(FORMAT_MESSAGE_ALLOCATE_BUFFER | FORMAT_MESSAGE_FROM_SYSTEM |
-                                  FORMAT_MESSAGE_IGNORE_INSERTS,
-                              nullptr, errorCode, LANG_USER_DEFAULT, wil::out_param_ptr<LPWSTR>(buffer), 0, nullptr);
+/// @pattern 40 55 53 56 57 41 55 41 56 41 57 48 8D AC 24 40 FF FF FF 48 81 EC
+/// C0 01 00 00 48 8B F9 4C 8B EA
+/// @rva 0x73CE0
+bool __fastcall SaveCompiledScripts(ScriptCompiledUnk170 *a1, __int64 a2);
 
-                auto caption = fmt::format(L"{} (error {})", msgCaption, errorCode);
-                auto message = fmt::format(L"{}\nCould not get the file name.", buffer.get());
-                MessageBox(nullptr, message.c_str(), caption.c_str(), MB_ICONERROR | MB_OK);
+auto SaveCompiledScripts_Original =
+    reinterpret_cast<decltype(&SaveCompiledScripts)>(
+        reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr)) + 0x73CE0);
 
-                return TRUE;
-            }
+bool __fastcall SaveCompiledScripts(ScriptCompiledUnk170 *a1, __int64 a2) {
+  Name name_ {
+    .hash = 0
+  };
+  name_.ToString();
+  fileInfos = &a1->fileInfos;
+  ready = true;
+  auto result = SaveCompiledScripts_Original(a1, a2);
+  ready = false;
+  return result;
+}
 
-            std::error_code fsErr;
-            std::filesystem::path exePath = fileName;
-            auto rootPath = exePath
-                                .parent_path()  // Resolve to "x64" directory.
-                                .parent_path()  // Resolve to "bin" directory.
-                                .parent_path(); // Resolve to game root directory.
+// ScriptedDataClass::GetParent && ScriptedDataEnum::GetParent
+/// @pattern 33 C0 C3
+/// @rva 0x2C2B0
+__int64 __fastcall UserMathErrorFunction(uintptr_t * a1);
 
-            auto modPath = rootPath / dir;
-            if (std::filesystem::exists(modPath, fsErr))
-            {
-                auto dllPath = modPath / dll;
-                if (!LoadLibrary(dllPath.c_str()))
-                {
-                    wil::unique_hlocal_ptr<wchar_t> buffer;
-                    auto errorCode = GetLastError();
+auto UserMathErrorFunction_Original =
+    reinterpret_cast<decltype(&UserMathErrorFunction)>(
+        reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr)) + 0x2C2B0);
 
-                    FormatMessage(
-                        FORMAT_MESSAGE_ALLOCATE_BUFFER | FORMAT_MESSAGE_FROM_SYSTEM | FORMAT_MESSAGE_IGNORE_INSERTS,
-                        nullptr, errorCode, LANG_USER_DEFAULT, wil::out_param_ptr<LPWSTR>(buffer), 0, nullptr);
+__int64 __fastcall UserMathErrorFunction(uintptr_t * a1) {
+  if (ready && a1) {
+    if (*a1 == ScriptedDataClass::VFT + reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr))) {
+      // ScriptedDataClass
+      auto cls = reinterpret_cast<ScriptedDataClass*>(a1);
 
-                    auto caption = fmt::format(L"{} (error {})", msgCaption, errorCode);
-                    auto message =
-                        fmt::format(L"{}\n{}\n\nRED4ext could not be loaded.", buffer.get(), dllPath.c_str());
-                    MessageBox(nullptr, message.c_str(), caption.c_str(), MB_ICONERROR | MB_OK);
-                }
-            }
-            else if (fsErr)
-            {
-                auto message =
-                    fmt::format(L"RED4ext could not be loaded because of a filesystem error ({}).", fsErr.value());
-                MessageBox(nullptr, message.c_str(), msgCaption, MB_ICONERROR | MB_OK);
-            }
+      for (const auto &file : *fileInfos) {
+        if (file->filename == *cls->sourceFile) {
+          return (__int64)file;
         }
-        catch (const std::exception& e)
-        {
-            auto message = fmt::format("An exception occured in RED4ext's loader.\n\n{}", e.what());
-            MessageBoxA(nullptr, message.c_str(), "RED4ext", MB_ICONERROR | MB_OK);
+      }
+    } else if (*a1 == ScriptedDataEnum::VFT + reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr))) {
+      // ScriptedDataEnum
+      auto e = reinterpret_cast<ScriptedDataEnum*>(a1);
+      // also runs for GetInternalType, so need to keep track
+      if (std::find(enums.begin(), enums.end(), e) == enums.end()) {
+        enums.emplace_back(e);
+        for (const auto &file : *fileInfos) {
+          if (file->filename == *e->sourceFile) {
+            return (__int64)file;
+          }
         }
-        catch (...)
-        {
-            MessageBox(nullptr, L"An unknown exception occured in RED4ext's loader.", L"RED4ext", MB_ICONERROR | MB_OK);
-        }
+      }
+    }
+  }
+  return UserMathErrorFunction_Original(a1);
+}
 
-        break;
-    }
-    case DLL_PROCESS_DETACH:
-    {
-        break;
-    }
+BOOL APIENTRY DllMain(HMODULE aModule, DWORD aReason, LPVOID aReserved) {
+  switch (aReason) {
+  case DLL_PROCESS_ATTACH: {
+    DisableThreadLibraryCalls(aModule);
+
+    try {
+      if (!redlexer::LoadOriginal()) {
+        return FALSE;
+      }
+      //            MessageBoxA(nullptr, "Things worked!", "SCC MOD",
+      //            MB_ICONINFORMATION | MB_OK);
+
+      DetourTransaction transaction;
+      if (!transaction.IsValid()) {
+        return false;
+      }
+
+      auto base = reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr));
+
+      auto success = DetourAttach(&SaveCompiledScripts_Original,
+                                  SaveCompiledScripts) == NO_ERROR;
+      auto success2 = DetourAttach(&UserMathErrorFunction_Original,
+                                  UserMathErrorFunction) == NO_ERROR;
+
+      if (success && success2) {
+        return transaction.Commit();
+      }
+
+    } catch (const std::exception &e) {
+      auto message = fmt::format(
+          "An exception occured in SCC Mod's loader.\n\n{}", e.what());
+      MessageBoxA(nullptr, message.c_str(), "SCC MOD", MB_ICONERROR | MB_OK);
+    } catch (...) {
+      MessageBox(nullptr, L"An unknown exception occured in SCC Mod's loader.",
+                 L"SCC Mod", MB_ICONERROR | MB_OK);
     }
 
-    return TRUE;
+    break;
+  }
+  case DLL_PROCESS_DETACH: {
+    break;
+  }
+  }
+
+  return TRUE;
 }

@@ -14,4 +14,6 @@ target_include_directories(redlexer_native.dll PRIVATE ${CMAKE_CURRENT_SOURCE_DI
 target_sources(redlexer_native.dll PRIVATE ${HEADER_FILES} ${SOURCE_FILES} ${DEF_FILES} ${RC_FILES})
 
 target_precompile_headers(redlexer_native.dll PRIVATE stdafx.hpp)
-target_link_libraries(redlexer_native.dll PRIVATE fmt WIL)
+target_link_libraries(redlexer_native.dll PRIVATE fmt WIL Detours)
+
+install(FILES $<TARGET_FILE:redlexer_native.dll> $<TARGET_PDB_FILE:redlexer_native.dll> TYPE BIN)
