@@ -53,3 +53,16 @@ include(ConfigureAndIncludeFmt)
 include(ConfigureAndIncludeWil)
 
 add_subdirectory(src)
+
+add_custom_target(compile
+  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native.dll ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native_real.dll
+  COMMAND ${CMAKE_COMMAND} -E copy $<TARGET_FILE:redlexer_native.dll> ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native.dll
+  COMMAND "${CMAKE_INSTALL_PREFIX}/bin/scc.exe" -compile "scripts\\" "final.redscripts" -rttiSchemaPath "metadata.json" -Wnone -threads 4 -no-testonly -no-breakpoint -profile=off 
+  COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native_real.dll ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native.dll
+  WORKING_DIRECTORY ${CMAKE_INSTALL_PREFIX}
+  DEPENDS redlexer_native.dll)
+
+add_custom_target(decompile 
+  COMMAND "D:/Code/redscript/target/release/redscript-cli.exe" decompile -i "${CMAKE_INSTALL_PREFIX}/final.redscripts" -o "redscripts" -m code -f
+  WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
+)

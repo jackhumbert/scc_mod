@@ -62,7 +62,8 @@ static_assert(sizeof(ScriptedDataTypeRef) == 0x40);
 
 // Class are only valid at global scope (for now)
 struct ScriptedDataClass : IScriptDataObject {
-  constexpr static const uintptr_t VFT = 0x2F4FA0;
+  // constexpr static const uintptr_t VFT = 0x2F4FA0;
+  constexpr static const uintptr_t VFT = 0x4A4730;
 
   ScriptedDataClass *parent;                // 30
   DynArray<IScriptDataObject *> properties; // 38
@@ -79,7 +80,8 @@ struct ScriptedDataNamedValue : IScriptDataObject {};
 
 // Enums are only valid at global scope (for now)
 struct ScriptedDataEnum : IScriptDataObject {
-  constexpr static const uintptr_t VFT = 0x2F5040;
+  // constexpr static const uintptr_t VFT = 0x2F5040;
+  constexpr static const uintptr_t VFT = 0x4A47D0;
   DynArray<IScriptDataObject *> unk30;
 };
 
@@ -88,7 +90,7 @@ struct ScriptedDataBitfield : IScriptDataObject {};
 
 // Functions are only allowed in global scope and classes
 struct ScriptedDataFunction : IScriptDataObject {
-  constexpr static const uintptr_t VFT = 0x2F5130;
+  // constexpr static const uintptr_t VFT = 0x2F5130;
 
   enum class Flags1 : uint8_t {
     is_static = 0x1,

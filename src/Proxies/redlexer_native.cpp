@@ -90,12 +90,12 @@ void lexer::native::Lexer::Tokenize(const char * a1, lexer::native::IListener * 
 }
 
 bool redlexer::LoadOriginal() {
-    constexpr auto dllName = "redlexer_native.dll";
+    std::filesystem::path dllName = "redlexer_native_real.dll";
 
-    std::filesystem::path dll = "old";
-    dll /= dllName;
+    // std::filesystem::path dll = "old";
+    // dll /= dllName;
 
-    auto handle = LoadLibrary(dll.c_str());
+    auto handle = LoadLibrary(dllName.c_str());
     if (!handle)
     {
         return false;
