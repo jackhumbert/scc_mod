@@ -1,5 +1,7 @@
 #pragma once
 
+#include <cstdint>
+
 #define ASSERT(expr, msg) if (!(expr)) { \
 __debugbreak(); \
 }

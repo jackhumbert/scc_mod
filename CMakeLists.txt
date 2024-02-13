@@ -57,12 +57,17 @@ add_subdirectory(src)
 add_custom_target(compile
   COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native.dll ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native_real.dll
   COMMAND ${CMAKE_COMMAND} -E copy $<TARGET_FILE:redlexer_native.dll> ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native.dll
-  COMMAND "${CMAKE_INSTALL_PREFIX}/bin/scc.exe" -compile "scripts\\" "final.redscripts" -rttiSchemaPath "metadata.json" -Wnone -threads 4 -no-testonly -no-breakpoint -profile=off 
+  COMMAND "${CMAKE_INSTALL_PREFIX}/bin/scc.exe" -compile "${CMAKE_INSTALL_PREFIX}\\scripts\\" "${CMAKE_INSTALL_PREFIX}\\final.redscripts" -rttiSchemaPath "${CMAKE_INSTALL_PREFIX}\\metadata.json" -Wnone -threads 4 -no-testonly -no-breakpoint -profile=off 
   COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native_real.dll ${CMAKE_INSTALL_PREFIX}/bin/redlexer_native.dll
   WORKING_DIRECTORY ${CMAKE_INSTALL_PREFIX}
   DEPENDS redlexer_native.dll)
 
 add_custom_target(decompile 
-  COMMAND "D:/Code/redscript/target/release/redscript-cli.exe" decompile -i "${CMAKE_INSTALL_PREFIX}/final.redscripts" -o "redscripts" -m code -f
+  COMMAND "tools/redscript-cli.exe" decompile -i "${CMAKE_INSTALL_PREFIX}/final.redscripts" -o "redscripts" -m code -f
+  WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
+)
+
+add_custom_target(make_til
+  COMMAND "C:/Users/Jack/Documents/cyberpunk/zoltan/target/release/zoltan-clang.exe" src/red/ -x "C:/Program Files (x86)/Steam/steamapps/common/Cyberpunk 2077/bin/x64/Cyberpunk2077.exe" -f="-std=c++20" -f="-Isrc/red/" -s --skip-lookup --til-output "C:/Users/Jack/AppData/Roaming/Hex-Rays/IDA Pro/til/pc/redlexer_native.til" 
   WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
 )

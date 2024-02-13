@@ -1,5 +1,7 @@
 #pragma once
 
+#include <cstdint>
+
 namespace red {
 
 struct String {
@@ -43,9 +45,9 @@ struct String {
   }
 
 #pragma pack(push, 4)
-  union {
+  union Contents {
     char inline_str[0x14];
-    struct {
+    struct External {
       char *ptr;
       int8_t unk[8];
       int32_t capacity;

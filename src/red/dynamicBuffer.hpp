@@ -1,5 +1,7 @@
 #pragma once
 
+#include <cstdint>
+
 namespace red {
 
 #pragma pack(push, 4)

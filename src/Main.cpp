@@ -36,17 +36,18 @@ std::vector<ScriptedDataEnum*> enums;
 /// @pattern 40 55 53 56 57 41 55 41 56 41 57 48 8D AC 24 40 FF FF FF 48 81 EC C0 01 00 00 48 8B F9 4C 8B EA
 /// @rva 0x73CE0
 /// @rva 0x82180
+/// @rva 0x82460
 bool __fastcall SaveCompiledScripts(ScriptCompiledUnk170 *a1, __int64 a2);
 
 auto SaveCompiledScripts_Original =
     reinterpret_cast<decltype(&SaveCompiledScripts)>(
-        reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr)) + 0x82180);
+        reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr)) + 0x82460);
 
 bool __fastcall SaveCompiledScripts(ScriptCompiledUnk170 *a1, __int64 a2) {
-  Name name_ {
-    .hash = 0
-  };
-  name_.ToString();
+  // Name name_ {
+  //   .hash = 0
+  // };
+  // name_.ToString();
   fileInfos = &a1->fileInfos;
 
   for (const auto &func : a1->functions) {
@@ -75,11 +76,12 @@ bool __fastcall SaveCompiledScripts(ScriptCompiledUnk170 *a1, __int64 a2) {
 /// @pattern 33 C0 C3
 /// @rva 0x2C2B0
 /// @rva 0x38110
+/// @rva 0x38180
 __int64 __fastcall UserMathErrorFunction(uintptr_t * a1);
 
 auto UserMathErrorFunction_Original =
     reinterpret_cast<decltype(&UserMathErrorFunction)>(
-        reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr)) + 0x38110);
+        reinterpret_cast<uintptr_t>(GetModuleHandle(nullptr)) + 0x38180);
 
 __int64 __fastcall UserMathErrorFunction(uintptr_t * a1) {
   if (ready && a1) {

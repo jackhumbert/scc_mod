@@ -63,7 +63,8 @@ static_assert(sizeof(ScriptedDataTypeRef) == 0x40);
 // Class are only valid at global scope (for now)
 struct ScriptedDataClass : IScriptDataObject {
   // constexpr static const uintptr_t VFT = 0x2F4FA0;
-  constexpr static const uintptr_t VFT = 0x4A4730;
+  // constexpr static const uintptr_t VFT = 0x4A4730;
+  constexpr static const uintptr_t VFT = 0x4A4850;
 
   ScriptedDataClass *parent;                // 30
   DynArray<IScriptDataObject *> properties; // 38
@@ -81,7 +82,8 @@ struct ScriptedDataNamedValue : IScriptDataObject {};
 // Enums are only valid at global scope (for now)
 struct ScriptedDataEnum : IScriptDataObject {
   // constexpr static const uintptr_t VFT = 0x2F5040;
-  constexpr static const uintptr_t VFT = 0x4A47D0;
+  // constexpr static const uintptr_t VFT = 0x4A47D0;
+  constexpr static const uintptr_t VFT = 0x4A48F0;
   DynArray<IScriptDataObject *> unk30;
 };
 

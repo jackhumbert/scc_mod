@@ -1,5 +1,6 @@
 #pragma once
 
+#include <mutex>
 #include "dynArray.hpp"
 
 namespace red {
