@@ -63,7 +63,8 @@ add_custom_target(compile
   DEPENDS redlexer_native.dll)
 
 add_custom_target(decompile 
-  COMMAND "tools/redscript-cli.exe" decompile -i "${CMAKE_INSTALL_PREFIX}/final.redscripts" -o "redscripts" -m code -f
+COMMAND "tools/redscript-cli.exe" decompile -i "${CMAKE_INSTALL_PREFIX}/final.redscripts" -o "redscripts" -m code -f
+  # COMMAND "D:/Code/redscript/target/release/redscript-cli.exe" decompile -i "${CMAKE_INSTALL_PREFIX}/final.redscripts" -o "redscripts" -m code -f
   WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
 )
 
